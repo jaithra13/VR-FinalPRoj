@@ -1,0 +1,1315 @@
+﻿Log file open, 12/13/21 11:26:45
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: VRProj
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.398331
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -7:00, Platform Override: ''
+LogInit: Display: Loading text-based GConfig....
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin GameplayCameras
+LogPluginManager: Mounting plugin OodleData
+LogPluginManager: Mounting plugin OodleNetwork
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin OpenImageDenoise
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin PythonScriptPlugin
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OpenXR
+LogPluginManager: Mounting plugin OpenXREyeTracker
+LogPluginManager: Mounting plugin OpenXRHandTracking
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin Takes
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PixWinPlugin
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin TextureFormatOodle
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+LogLuminAPIImpl: Warning: MLSDK not found.  This likely means the MLSDK environment variable is not set.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogOculusPluginWrapper: OculusPlugin initialized successfully
+LogHMD: Failed initializing OVRPlugin 1.59.0
+LogInit: Build: ++UE4+Release-4.27-CL-17735300
+LogInit: Engine Version: 4.27.1-17735300+++UE4+Release-4.27
+LogInit: Compatible Engine Version: 4.27.0-17155196+++UE4+Release-4.27
+LogInit: Net CL: 17155196
+LogInit: OS: Windows 10 (Release 2009) (), CPU: Intel(R) Core(TM) i7-8750H CPU @ 2.20GHz, GPU: Intel(R) UHD Graphics 630
+LogInit: Compiled (64-bit): Oct  6 2021 14:42:51
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.27
+LogInit: Command Line:  -EpicPortal -epicusername=ƒriskyy -epicuserid=36b76ea6c3bf479ba6b3c7a94369e7e9 -epiclocale=en -epicsandboxid=ue
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.27/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 14
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 47
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/india/Documents/Unreal Projects/VRProj/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2021.12.13-18.26.46:360][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2021.12.13-18.26.46:360][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2021.12.13-18.26.46:360][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/india/Documents/Unreal Projects/VRProj/Saved/Config/Windows/Engine.ini]
+[2021.12.13-18.26.46:360][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2021.12.13-18.26.46:360][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/india/Documents/Unreal Projects/VRProj/Saved/Config/Windows/Engine.ini]
+[2021.12.13-18.26.46:360][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/india/Documents/Unreal Projects/VRProj/Saved/Config/Windows/Engine.ini]
+[2021.12.13-18.26.46:360][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2021.12.13-18.26.46:360][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2021.12.13-18.26.46:360][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2021.12.13-18.26.46:360][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2021.12.13-18.26.46:360][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2021.12.13-18.26.46:360][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2021.12.13-18.26.46:360][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2021.12.13-18.26.46:360][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2021.12.13-18.26.46:360][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2021.12.13-18.26.46:360][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2021.12.13-18.26.46:360][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2021.12.13-18.26.46:360][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2021.12.13-18.26.46:360][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2021.12.13-18.26.46:360][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2021.12.13-18.26.46:360][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/india/Documents/Unreal Projects/VRProj/Saved/Config/Windows/Engine.ini]
+[2021.12.13-18.26.46:360][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2021.12.13-18.26.46:360][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2021.12.13-18.26.46:360][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2021.12.13-18.26.46:360][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2021.12.13-18.26.46:360][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2021.12.13-18.26.46:360][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2021.12.13-18.26.46:360][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2021.12.13-18.26.46:361][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2021.12.13-18.26.46:361][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2021.12.13-18.26.46:361][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2021.12.13-18.26.46:361][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2021.12.13-18.26.46:361][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2021.12.13-18.26.46:361][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2021.12.13-18.26.46:361][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2021.12.13-18.26.46:361][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/india/Documents/Unreal Projects/VRProj/Saved/Config/Windows/Engine.ini]
+[2021.12.13-18.26.46:361][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/india/Documents/Unreal Projects/VRProj/Saved/Config/Windows/Engine.ini]
+[2021.12.13-18.26.46:381][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/india/Documents/Unreal Projects/VRProj/Saved/Config/Windows/Scalability.ini]
+[2021.12.13-18.26.46:381][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.12.13-18.26.46:381][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.12.13-18.26.46:381][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/india/Documents/Unreal Projects/VRProj/Saved/Config/Windows/Scalability.ini]
+[2021.12.13-18.26.46:381][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.12.13-18.26.46:381][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/india/Documents/Unreal Projects/VRProj/Saved/Config/Windows/Scalability.ini]
+[2021.12.13-18.26.46:381][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.12.13-18.26.46:381][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.12.13-18.26.46:381][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.12.13-18.26.46:381][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.12.13-18.26.46:381][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.12.13-18.26.46:381][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.12.13-18.26.46:381][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.12.13-18.26.46:381][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.12.13-18.26.46:381][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.12.13-18.26.46:381][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.12.13-18.26.46:381][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.12.13-18.26.46:381][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.12.13-18.26.46:381][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.12.13-18.26.46:381][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.12.13-18.26.46:381][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.12.13-18.26.46:381][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.12.13-18.26.46:381][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.12.13-18.26.46:381][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.12.13-18.26.46:381][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/india/Documents/Unreal Projects/VRProj/Saved/Config/Windows/Scalability.ini]
+[2021.12.13-18.26.46:381][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.12.13-18.26.46:381][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.12.13-18.26.46:381][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.12.13-18.26.46:381][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.12.13-18.26.46:381][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.12.13-18.26.46:381][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.12.13-18.26.46:381][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.12.13-18.26.46:381][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.12.13-18.26.46:381][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.12.13-18.26.46:381][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.12.13-18.26.46:381][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.12.13-18.26.46:381][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.12.13-18.26.46:381][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.12.13-18.26.46:381][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.12.13-18.26.46:381][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.12.13-18.26.46:381][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.12.13-18.26.46:381][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.12.13-18.26.46:381][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.12.13-18.26.46:381][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.12.13-18.26.46:381][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.12.13-18.26.46:381][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.12.13-18.26.46:381][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.12.13-18.26.46:381][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.12.13-18.26.46:381][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.12.13-18.26.46:381][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.12.13-18.26.46:381][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.12.13-18.26.46:381][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.12.13-18.26.46:382][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.12.13-18.26.46:382][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.12.13-18.26.46:382][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.12.13-18.26.46:382][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/india/Documents/Unreal Projects/VRProj/Saved/Config/Windows/Scalability.ini]
+[2021.12.13-18.26.46:382][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.12.13-18.26.46:382][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.12.13-18.26.46:382][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.12.13-18.26.46:382][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.12.13-18.26.46:382][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.12.13-18.26.46:382][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.12.13-18.26.46:382][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.12.13-18.26.46:382][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.12.13-18.26.46:382][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.12.13-18.26.46:382][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/india/Documents/Unreal Projects/VRProj/Saved/Config/Windows/Scalability.ini]
+[2021.12.13-18.26.46:382][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.12.13-18.26.46:382][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.12.13-18.26.46:382][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.12.13-18.26.46:382][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.12.13-18.26.46:382][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.12.13-18.26.46:382][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.12.13-18.26.46:382][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.12.13-18.26.46:382][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.12.13-18.26.46:382][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.12.13-18.26.46:382][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.12.13-18.26.46:382][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.12.13-18.26.46:382][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.12.13-18.26.46:382][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.12.13-18.26.46:382][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.12.13-18.26.46:382][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.12.13-18.26.46:382][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.12.13-18.26.46:382][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.12.13-18.26.46:382][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.12.13-18.26.46:382][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.12.13-18.26.46:382][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.12.13-18.26.46:382][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.12.13-18.26.46:382][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.12.13-18.26.46:382][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.12.13-18.26.46:382][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.12.13-18.26.46:382][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.12.13-18.26.46:382][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.12.13-18.26.46:382][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.12.13-18.26.46:382][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2021.12.13-18.26.46:382][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/india/Documents/Unreal Projects/VRProj/Saved/Config/Windows/Scalability.ini]
+[2021.12.13-18.26.46:382][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.12.13-18.26.46:382][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.12.13-18.26.46:382][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/india/Documents/Unreal Projects/VRProj/Saved/Config/Windows/Scalability.ini]
+[2021.12.13-18.26.46:382][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.12.13-18.26.46:382][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.12.13-18.26.46:382][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.12.13-18.26.46:382][  0]LogInit: Selected Device Profile: [Windows]
+[2021.12.13-18.26.46:382][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2021.12.13-18.26.46:382][  0]LogHAL: Display: Platform has ~ 16 GB [17023528960 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2021.12.13-18.26.46:382][  0]LogInit: Going up to parent DeviceProfile []
+[2021.12.13-18.26.46:382][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/india/Documents/Unreal Projects/VRProj/Saved/Config/Windows/Scalability.ini]
+[2021.12.13-18.26.46:382][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.12.13-18.26.46:382][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.12.13-18.26.46:382][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/india/Documents/Unreal Projects/VRProj/Saved/Config/Windows/Scalability.ini]
+[2021.12.13-18.26.46:382][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.12.13-18.26.46:382][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/india/Documents/Unreal Projects/VRProj/Saved/Config/Windows/Scalability.ini]
+[2021.12.13-18.26.46:382][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.12.13-18.26.46:382][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.12.13-18.26.46:382][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.12.13-18.26.46:382][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.12.13-18.26.46:383][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.12.13-18.26.46:383][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.12.13-18.26.46:383][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.12.13-18.26.46:383][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.12.13-18.26.46:383][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.12.13-18.26.46:383][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.12.13-18.26.46:383][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.12.13-18.26.46:383][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.12.13-18.26.46:383][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.12.13-18.26.46:383][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.12.13-18.26.46:383][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.12.13-18.26.46:383][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.12.13-18.26.46:383][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.12.13-18.26.46:383][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.12.13-18.26.46:383][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/india/Documents/Unreal Projects/VRProj/Saved/Config/Windows/Scalability.ini]
+[2021.12.13-18.26.46:383][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.12.13-18.26.46:383][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.12.13-18.26.46:383][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.12.13-18.26.46:383][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.12.13-18.26.46:383][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.12.13-18.26.46:383][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.12.13-18.26.46:383][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.12.13-18.26.46:383][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.12.13-18.26.46:383][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.12.13-18.26.46:383][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.12.13-18.26.46:383][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.12.13-18.26.46:383][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.12.13-18.26.46:383][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.12.13-18.26.46:383][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.12.13-18.26.46:383][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.12.13-18.26.46:383][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.12.13-18.26.46:383][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.12.13-18.26.46:383][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.12.13-18.26.46:383][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.12.13-18.26.46:383][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.12.13-18.26.46:383][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.12.13-18.26.46:383][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.12.13-18.26.46:383][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.12.13-18.26.46:383][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.12.13-18.26.46:383][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.12.13-18.26.46:383][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.12.13-18.26.46:383][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.12.13-18.26.46:383][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.12.13-18.26.46:383][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.12.13-18.26.46:383][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.12.13-18.26.46:383][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/india/Documents/Unreal Projects/VRProj/Saved/Config/Windows/Scalability.ini]
+[2021.12.13-18.26.46:383][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.12.13-18.26.46:383][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.12.13-18.26.46:383][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.12.13-18.26.46:383][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.12.13-18.26.46:383][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.12.13-18.26.46:383][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.12.13-18.26.46:383][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.12.13-18.26.46:383][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.12.13-18.26.46:383][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.12.13-18.26.46:384][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/india/Documents/Unreal Projects/VRProj/Saved/Config/Windows/Scalability.ini]
+[2021.12.13-18.26.46:384][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.12.13-18.26.46:384][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.12.13-18.26.46:384][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.12.13-18.26.46:384][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.12.13-18.26.46:384][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.12.13-18.26.46:384][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.12.13-18.26.46:384][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.12.13-18.26.46:384][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.12.13-18.26.46:384][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.12.13-18.26.46:384][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.12.13-18.26.46:384][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.12.13-18.26.46:384][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.12.13-18.26.46:384][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.12.13-18.26.46:384][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.12.13-18.26.46:384][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.12.13-18.26.46:384][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.12.13-18.26.46:384][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.12.13-18.26.46:384][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.12.13-18.26.46:384][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.12.13-18.26.46:384][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.12.13-18.26.46:384][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.12.13-18.26.46:384][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.12.13-18.26.46:384][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.12.13-18.26.46:384][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.12.13-18.26.46:384][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.12.13-18.26.46:384][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.12.13-18.26.46:384][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.12.13-18.26.46:384][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2021.12.13-18.26.46:384][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/india/Documents/Unreal Projects/VRProj/Saved/Config/Windows/Scalability.ini]
+[2021.12.13-18.26.46:384][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.12.13-18.26.46:384][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.12.13-18.26.46:384][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/india/Documents/Unreal Projects/VRProj/Saved/Config/Windows/Scalability.ini]
+[2021.12.13-18.26.46:384][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.12.13-18.26.46:384][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.12.13-18.26.46:384][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.12.13-18.26.46:384][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2021.12.13-18.26.46:385][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2021.12.13-18.26.46:385][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2021.12.13-18.26.46:385][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2021.12.13-18.26.46:385][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/india/Documents/Unreal Projects/VRProj/Saved/Config/Windows/Engine.ini]
+[2021.12.13-18.26.46:385][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/india/Documents/Unreal Projects/VRProj/Saved/Config/Windows/Editor.ini]
+[2021.12.13-18.26.46:385][  0]LogInit: Computer: LAPTOP-N7RON8PD
+[2021.12.13-18.26.46:385][  0]LogInit: User: india
+[2021.12.13-18.26.46:385][  0]LogInit: CPU Page size=4096, Cores=6
+[2021.12.13-18.26.46:385][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2021.12.13-18.26.46:385][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2021.12.13-18.26.46:385][  0]LogMemory: Platform Memory Stats for Windows
+[2021.12.13-18.26.46:385][  0]LogMemory: Process Physical Memory: 150.16 MB used, 150.16 MB peak
+[2021.12.13-18.26.46:386][  0]LogMemory: Process Virtual Memory: 132.09 MB used, 132.09 MB peak
+[2021.12.13-18.26.46:386][  0]LogMemory: Physical Memory: 11635.36 MB used,  4599.55 MB free, 16234.90 MB total
+[2021.12.13-18.26.46:386][  0]LogMemory: Virtual Memory: 134213192.00 MB used,  4532.57 MB free, 134217728.00 MB total
+[2021.12.13-18.26.46:392][  0]LogWindows: WindowsPlatformFeatures enabled
+[2021.12.13-18.26.46:455][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2021.12.13-18.26.46:455][  0]LogInit: Using OS detected language (en-US).
+[2021.12.13-18.26.46:455][  0]LogInit: Using OS detected locale (en-US).
+[2021.12.13-18.26.46:459][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2021.12.13-18.26.46:745][  0]LogInit: Setting process to per monitor DPI aware
+[2021.12.13-18.26.46:767][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.12.13-18.26.46:787][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2021.12.13-18.26.46:787][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2021.12.13-18.26.47:008][  0]LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+[2021.12.13-18.26.47:076][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.12.13-18.26.47:076][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2021.12.13-18.26.47:076][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2021.12.13-18.26.47:076][  0]LogD3D11RHI: D3D11 adapters:
+[2021.12.13-18.26.47:219][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1070 with Max-Q Design' (Feature Level 11_0)
+[2021.12.13-18.26.47:219][  0]LogD3D11RHI:       8081/0/8117 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2021.12.13-18.26.47:236][  0]LogD3D11RHI:    1. 'Intel(R) UHD Graphics 630' (Feature Level 11_0)
+[2021.12.13-18.26.47:236][  0]LogD3D11RHI:       128/0/8117 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2021.12.13-18.26.47:242][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2021.12.13-18.26.47:242][  0]LogD3D11RHI:       0/0/8117 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2021.12.13-18.26.47:242][  0]LogD3D11RHI: Chosen D3D11 Adapter:
+[2021.12.13-18.26.47:242][  0]LogD3D11RHI:     Description : NVIDIA GeForce GTX 1070 with Max-Q Design
+[2021.12.13-18.26.47:242][  0]LogD3D11RHI:     VendorId    : 10de
+[2021.12.13-18.26.47:242][  0]LogD3D11RHI:     DeviceId    : 1ba1
+[2021.12.13-18.26.47:242][  0]LogD3D11RHI:     SubSysId    : 1cce1043
+[2021.12.13-18.26.47:242][  0]LogD3D11RHI:     Revision    : 00a1
+[2021.12.13-18.26.47:242][  0]LogD3D11RHI:     DedicatedVideoMemory : 8473542656 bytes
+[2021.12.13-18.26.47:242][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2021.12.13-18.26.47:242][  0]LogD3D11RHI:     SharedSystemMemory : 8511764480 bytes
+[2021.12.13-18.26.47:242][  0]LogD3D11RHI:     AdapterLuid : 0 60024
+[2021.12.13-18.26.47:255][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2021.12.13-18.26.47:255][  0]LogD3D11RHI:     GPU DeviceId: 0x1ba1 (for the marketing name, search the web for "GPU Device Id")
+[2021.12.13-18.26.47:255][  0]LogWindows: EnumDisplayDevices:
+[2021.12.13-18.26.47:255][  0]LogWindows:    0. 'Intel(R) UHD Graphics 630' (P:1 D:1)
+[2021.12.13-18.26.47:256][  0]LogWindows:    1. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2021.12.13-18.26.47:256][  0]LogWindows:    2. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2021.12.13-18.26.47:256][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1070 with Max-Q Design' (P:0 D:0)
+[2021.12.13-18.26.47:257][  0]LogWindows:    4. 'NVIDIA GeForce GTX 1070 with Max-Q Design' (P:0 D:0)
+[2021.12.13-18.26.47:257][  0]LogWindows:    5. 'NVIDIA GeForce GTX 1070 with Max-Q Design' (P:0 D:0)
+[2021.12.13-18.26.47:257][  0]LogWindows:    6. 'NVIDIA GeForce GTX 1070 with Max-Q Design' (P:0 D:0)
+[2021.12.13-18.26.47:257][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2021.12.13-18.26.47:257][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1070 with Max-Q Design
+[2021.12.13-18.26.47:257][  0]LogD3D11RHI:   Driver Version: 496.76 (internal:30.0.14.9676, unified:496.76)
+[2021.12.13-18.26.47:258][  0]LogD3D11RHI:      Driver Date: 11-9-2021
+[2021.12.13-18.26.47:258][  0]LogRHI: Texture pool is 5656 MB (70% of 8081 MB)
+[2021.12.13-18.26.47:258][  0]LogD3D11RHI: Creating D3DDevice using adapter:
+[2021.12.13-18.26.47:258][  0]LogD3D11RHI:     Description : NVIDIA GeForce GTX 1070 with Max-Q Design
+[2021.12.13-18.26.47:258][  0]LogD3D11RHI:     VendorId    : 10de
+[2021.12.13-18.26.47:258][  0]LogD3D11RHI:     DeviceId    : 1ba1
+[2021.12.13-18.26.47:258][  0]LogD3D11RHI:     SubSysId    : 1cce1043
+[2021.12.13-18.26.47:258][  0]LogD3D11RHI:     Revision    : 00a1
+[2021.12.13-18.26.47:258][  0]LogD3D11RHI:     DedicatedVideoMemory : 8473542656 bytes
+[2021.12.13-18.26.47:258][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2021.12.13-18.26.47:258][  0]LogD3D11RHI:     SharedSystemMemory : 8511764480 bytes
+[2021.12.13-18.26.47:258][  0]LogD3D11RHI:     AdapterLuid : 0 60024
+[2021.12.13-18.26.47:339][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2021.12.13-18.26.47:340][  0]LogD3D11RHI: Async texture creation enabled
+[2021.12.13-18.26.47:340][  0]LogD3D11RHI: Array index from any shader is supported
+[2021.12.13-18.26.47:386][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2021.12.13-18.26.47:453][  0]LogRHI: GeForceNow SDK initialized: 1
+[2021.12.13-18.26.47:932][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2021.12.13-18.26.47:968][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2021.12.13-18.26.47:968][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2021.12.13-18.26.47:968][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2021.12.13-18.26.47:968][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2021.12.13-18.26.47:968][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2021.12.13-18.26.47:968][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2021.12.13-18.26.47:968][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2021.12.13-18.26.47:969][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2021.12.13-18.26.47:969][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2021.12.13-18.26.47:969][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2021.12.13-18.26.47:999][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2021.12.13-18.26.47:999][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2021.12.13-18.26.48:016][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2021.12.13-18.26.48:022][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2021.12.13-18.26.48:028][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2021.12.13-18.26.48:037][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2021.12.13-18.26.48:054][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2021.12.13-18.26.48:061][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2021.12.13-18.26.48:067][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2021.12.13-18.26.48:115][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2021.12.13-18.26.48:115][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2021.12.13-18.26.48:132][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2021.12.13-18.26.48:141][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2021.12.13-18.26.48:147][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2021.12.13-18.26.48:152][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2021.12.13-18.26.48:170][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2021.12.13-18.26.48:170][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2021.12.13-18.26.48:184][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2021.12.13-18.26.48:190][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2021.12.13-18.26.48:196][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2021.12.13-18.26.48:202][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2021.12.13-18.26.48:202][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2021.12.13-18.26.48:214][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2021.12.13-18.26.48:256][  0]LogTextureFormatOodle: Display: Oodle Texture 2.9.0 init RDO Off
+[2021.12.13-18.26.48:300][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2021.12.13-18.26.48:300][  0]LogShaderCompilers: Guid format shader working directory is -17 characters bigger than the processId version (../../../../../../Users/india/Documents/Unreal Projects/VRProj/Intermediate/Shaders/WorkingDirectory/33280/).
+[2021.12.13-18.26.48:300][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/india/AppData/Local/Temp/UnrealShaderWorkingDir/CF20CFD7459EDEA51E4DCB8A7687DF56/'.
+[2021.12.13-18.26.48:300][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2021.12.13-18.26.48:301][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2021.12.13-18.26.48:301][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2021.12.13-18.26.49:359][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2021.12.13-18.26.49:449][  0]LogDerivedDataCache: Loaded boot cache 0.09s 123MB C:/Users/india/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2021.12.13-18.26.49:449][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/india/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc
+[2021.12.13-18.26.49:449][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/india/Documents/Unreal Projects/VRProj/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2021.12.13-18.26.49:449][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2021.12.13-18.26.49:449][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/india/Documents/Unreal Projects/VRProj/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.12.13-18.26.49:450][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2021.12.13-18.26.49:470][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2021.12.13-18.26.49:471][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.12.13-18.26.49:471][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2021.12.13-18.26.49:484][  0]LogDerivedDataCache: Speed tests for C:/Users/india/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2021.12.13-18.26.49:484][  0]LogDerivedDataCache: Display: Performance to C:/Users/india/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.04ms. RandomReadSpeed=177.34MBs, RandomWriteSpeed=120.37MBs. Assigned SpeedClass 'Local'
+[2021.12.13-18.26.49:485][  0]LogDerivedDataCache: Using Local data cache path C:/Users/india/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2021.12.13-18.26.49:485][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2021.12.13-18.26.49:485][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2021.12.13-18.26.49:557][  0]LogSlate: Using FreeType 2.10.0
+[2021.12.13-18.26.49:558][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2021.12.13-18.26.49:590][  0]LogAssetRegistry: FAssetRegistry took 0.0032 seconds to start up
+[2021.12.13-18.26.50:146][  0]LogInit: Selected Device Profile: [Windows]
+[2021.12.13-18.26.50:146][  0]LogInit: Active device profile: [000002361B933000][000002361ACCCB80 49] Windows
+[2021.12.13-18.26.50:147][  0]LogInit: Profiles: [000002361B933000][000002361ACCCB80 49] Windows, [000002361B8F1100][0000023618168CC0 49] WindowsNoEditor, [000002361B933900][000002361BE4EE40 49] WindowsServer, [000002361B8F0700][000002361BE52FC0 49] WindowsClient, [000002361B930600][000002361BE57140 49] IOS, [000002361B8F1500][000002361BE5B2C0 49] iPadAir, [000002361B931500][000002361BE5F440 49] iPadAir2, [000002361B81E700][000002361BE67700 49] IPadPro, [000002361B81E800][000002361BE63740 49] iPadAir3, [000002361B932400][000002361BE6B8C0 49] iPadAir4, [000002361B81F600][000002361BE6FA40 49] iPadMini2, [000002361B933300][000002361BE73BC0 49] iPadMini3, [000002361B81C600][000002361BE761C0 49] iPadMini4, [000002361B931F00][000002361BE7A340 49] iPadMini5, [000002361B85E000][000002361BE82600 49] iPhone6, [000002361B85E100][000002361BE7E640 49] iPodTouch6, [000002361B81CD00][000002361BE8A900 49] iPhone7, [000002361B81C900][000002361BE86940 49] iPodTouch7, [000002361B85EE00][000002361BE8EAC0 49] iPhone5S, [000002361B81C500][000002361BE4AC00 49] iPhone6Plus, [000002361B85C600][000002361BE92D40 49] iPhone6S, [000002361B81DA00][000002361BE96E80 49] iPhone6SPlus, [000002361B85F700][000002361BE9AFC0 49] iPhone7Plus, [000002361B81F200][000002361BEA3140 49] iPhoneSE, [000002361B85F400][000002361BEA72C0 49] iPhone8, [000002361B81D800][000002361BEAB440 49] iPhone8Plus, [000002361B85FA00][000002361BEAF5C0 49] iPhoneX, [000002361B81FA00][000002361BEB3740 49] iPhoneXS, [000002361B85C400][000002361BEB78C0 49] iPhoneXSMax, [000002361B81FB00][000002361BEBBA40 49] iPhoneXR, [000002361B85F600][000002361BEBFBC0 49] iPhone11, [000002361B81DC00][000002361BEC21C0 49] iPhone11Pro, [000002361B85EC00][000002361BEC6340 49] iPhone11ProMax, [000002361B81FF00][000002361BECA4C0 49] iPhoneSE2, [000002361B85D900][000002361BECE640 49] iPhone12Mini, [000002361B81F000][000002361BED27C0 49] iPhone12, [000002361B85DC00][000002361BED6940 49] iPhone12Pro, [000002361B81EC00][000002361BEDAAC0 49] iPhone12ProMax, [000002361B85D100][000002361BEDEC40 49] iPadPro105, [000002361B81ED00][000002361BE9ED80 49] iPadPro129, [000002361B85CE00][000002361BEE2EC0 49] iPadPro97, [000002361B81D100][000002361BEE7000 49] iPadPro2_129, [000002361B85DD00][000002361BEEB140 49] iPad5, [000002361B81E600][000002361BEF32C0 49] iPad6, [000002361B85D800][000002361BEF7440 49] iPad7, [000002361B81F300][000002361BEFB5C0 49] iPad8, [000002361B85D300][000002361BEFF740 49] iPadPro11, [000002361B81FD00][000002361BF038C0 49] iPadPro2_11, [000002361B85CA00][000002361BF07A40 49] iPadPro3_129, [000002361B8F3300][000002361BF0BBC0 49] iPadPro4_129, [000002361B979D00][000002361BF0E1C0 49] AppleTV, [000002361B8F3A00][000002361BF12340 49] AppleTV4K, [000002361B978A00][000002361BF164C0 49] TVOS, [000002361B8F3400][000002361BF1A640 49] Mac, [000002361B979800][000002361BF1E7C0 49] MacClient, [000002361B8F2700][000002361BF22940 49] MacNoEditor, [000002361B978F00][000002361BF26AC0 49] MacServer, [000002361B8F1D00][000002361BF2AC40 49] Linux, [000002361B979200][000002361BF2EDC0 49] LinuxAArch64, [000002361B8F1E00][000002361BF32F40 49] LinuxNoEditor, [000002361B97A000][000002361BEEF080 49] LinuxAArch64NoEditor, [000002361B8F2E00][000002361BF371C0 49] LinuxClient, [000002361B979400][000002361BF3B300 49] LinuxAArch64Client, [000002361B8F1200][000002361BF43480 49] LinuxServer, [000002361B97AB00][000002361BF47600 49] LinuxAArch64Server, [000002361B85FB00][000002361BF4B780 49] Android, [000002361B81EF00][000002361BF4F900 49] Android_Low, [000002361B85F200][000002361BF53A80 49] Android_Mid, [000002361B81CA00][000002361BF57C00 49] Android_High, [000002361B85E200][000002361BF5A200 49] Android_Default, [000002361B81DD00][000002361BF5E380 49] Android_Adreno4xx, [000002361B85EA00][000002361BF62500 49] Android_Adreno5xx_Low, [000002361B81EE00][000002361BF66680 49] Android_Adreno5xx, [000002361B85CF00][000002361BF6A800 49] Android_Adreno6xx, [000002361B81E300][000002361BF6E980 49] Android_Adreno6xx_Vulkan, [000002361B97A100][000002361BF72B00 49] Android_Mali_T6xx, [000002361B81E200][000002361BF76C80 49] Android_Mali_T7xx, [000002361B97A700][000002361BF7AE00 49] Android_Mali_T8xx, [000002361B81DF00][000002361BF7EF80 49] Android_Mali_G71, [000002361B979100][000002361BF83100 49] Android_Mali_G72, [000002361B81FC00][000002361BF3F240 49] Android_Mali_G72_Vulkan, [000002361B978D00][000002361BF87380 49] Android_Mali_G76, [000002361B81C200][000002361BF8B4C0 49] Android_Mali_G76_Vulkan, [000002361B97A300][000002361BF93640 49] Android_Mali_G77, [000002361B81C700][000002361BF977C0 49] Android_Mali_G77_Vulkan, [000002361B979700][000002361BF9B940 49] Android_Mali_G78, [000002361B81DE00][000002361BF9FAC0 49] Android_Mali_G78_Vulkan, [000002361B979B00][000002361BFA20C0 49] Android_Mali_G710, [000002361B81E100][000002361BFA6240 49] Android_Mali_G710_Vulkan, [000002361B978800][000002361BFAA3C0 49] Android_Vulkan_SM5, [000002361B81F100][000002361BFAE540 49] Android_PowerVR_G6xxx, [000002361B978300][000002361BFB26C0 49] Android_PowerVR_GT7xxx, [000002361B81EB00][000002361BFB6840 49] Android_PowerVR_GE8xxx, [000002361B979600][000002361BFBA9C0 49] Android_PowerVR_GM9xxx, [000002361B81D900][000002361BFBEB40 49] Android_PowerVR_GM9xxx_Vulkan, [000002361B85E300][000002361BFC2CC0 49] Android_TegraK1, [000002361B81D200][000002361BFC6E40 49] Android_Unknown_Vulkan, [000002361B85E600][000002361BFCAFC0 49] Lumin, [000002361B81D700][000002361BFCF140 49] Lumin_Desktop, [000002361B85E800][000002361BFD32C0 49] HoloLens, 
+[2021.12.13-18.26.50:511][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2021.12.13-18.26.50:511][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2021.12.13-18.26.50:511][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2021.12.13-18.26.50:511][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2021.12.13-18.26.50:511][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2021.12.13-18.26.50:553][  0]LogNetVersion: VRProj 1.0.0, NetCL: 17155196, EngineNetVer: 17, GameNetVer: 0 (Checksum: 4162694034)
+[2021.12.13-18.26.51:751][  0]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/MapTemplates/Sky/DaylightAmbientCubemap.DaylightAmbientCubemap', its maximum texture size has been explicitly set to 512.
+[2021.12.13-18.26.51:932][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2021.12.13-18.26.51:949][  0]LogUObjectArray: 17178 objects as part of root set at end of initial load.
+[2021.12.13-18.26.51:949][  0]LogUObjectAllocator: 4301856 out of 0 bytes used by permanent object pool.
+[2021.12.13-18.26.51:949][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2021.12.13-18.26.52:703][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: 5B706B844EDFD54A89D93DBEC29E82BB | Instance: C94CEC3D40DB0B2CCCE2B78343F997EE (LAPTOP-N7RON8PD-33280).
+[2021.12.13-18.26.52:821][  0]LogImageWrapper: Warning: PNG Warning: Duplicate iCCP chunk
+[2021.12.13-18.26.52:821][  0]LogImageWrapper: Warning: PNG Warning: Duplicate iCCP chunk
+[2021.12.13-18.26.53:028][  0]LogPython: Using Python 3.7.7
+[2021.12.13-18.26.54:096][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2021.12.13-18.26.54:106][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2021.12.13-18.26.54:555][  0]LogOpenImageDenoise: OIDN starting up
+[2021.12.13-18.26.54:609][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2021.12.13-18.26.54:630][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.12.13-18.26.54:630][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.12.13-18.26.54:782][  0]SourceControl: Source control is disabled
+[2021.12.13-18.26.54:782][  0]SourceControl: Source control is disabled
+[2021.12.13-18.26.54:792][  0]SourceControl: Source control is disabled
+[2021.12.13-18.26.54:801][  0]SourceControl: Source control is disabled
+[2021.12.13-18.26.54:805][  0]SourceControl: Source control is disabled
+[2021.12.13-18.26.54:816][  0]LogUProjectInfo: Found projects:
+[2021.12.13-18.26.54:822][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2021.12.13-18.26.54:823][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2021.12.13-18.26.54:824][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2021.12.13-18.26.54:840][  0]LogCollectionManager: Loaded 0 collections in 0.002554 seconds
+[2021.12.13-18.26.54:873][  0]LogFileCache: Scanning file cache for directory 'C:/Users/india/Documents/Unreal Projects/VRProj/Saved/Collections/' took 0.00s
+[2021.12.13-18.26.54:873][  0]LogFileCache: Scanning file cache for directory 'C:/Users/india/Documents/Unreal Projects/VRProj/Content/Developers/india/Collections/' took 0.00s
+[2021.12.13-18.26.54:873][  0]LogFileCache: Scanning file cache for directory 'C:/Users/india/Documents/Unreal Projects/VRProj/Content/Collections/' took 0.00s
+[2021.12.13-18.26.54:873][  0]LogOcInput: OculusInput pre-init called
+[2021.12.13-18.26.55:134][  0]LogImageWrapper: Warning: PNG Warning: Duplicate iCCP chunk
+[2021.12.13-18.26.55:135][  0]LogImageWrapper: Warning: PNG Warning: Duplicate iCCP chunk
+[2021.12.13-18.26.55:219][  0]LogEngine: Initializing Engine...
+[2021.12.13-18.26.55:224][  0]LogHMD: Failed to enumerate extensions. Please check that you have a valid OpenXR runtime installed.
+[2021.12.13-18.26.55:224][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.12.13-18.26.55:225][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2021.12.13-18.26.55:226][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2021.12.13-18.26.55:427][  0]LogInit: Initializing FReadOnlyCVARCache
+[2021.12.13-18.26.55:440][  0]LogAIModule: Creating AISystem for world Untitled
+[2021.12.13-18.26.55:460][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2021.12.13-18.26.55:464][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2021.12.13-18.26.55:465][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2021.12.13-18.26.55:466][  0]LogAudio: Display: Audio Device Manager Initialized
+[2021.12.13-18.26.55:466][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2021.12.13-18.26.55:466][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.12.13-18.26.55:466][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.12.13-18.26.55:466][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.12.13-18.26.55:466][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.12.13-18.26.55:466][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.12.13-18.26.55:466][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.12.13-18.26.55:466][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.12.13-18.26.55:466][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.12.13-18.26.55:466][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2021.12.13-18.26.55:466][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2021.12.13-18.26.55:466][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2021.12.13-18.26.55:467][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2021.12.13-18.26.55:491][  0]LogAudioMixer: Display: 0: FrontLeft
+[2021.12.13-18.26.55:491][  0]LogAudioMixer: Display: 1: FrontRight
+[2021.12.13-18.26.55:543][  0]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2021.12.13-18.26.55:546][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.12.13-18.26.55:549][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.12.13-18.26.55:549][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.12.13-18.26.55:550][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.12.13-18.26.55:550][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.12.13-18.26.55:551][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.12.13-18.26.55:552][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.12.13-18.26.55:552][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.12.13-18.26.55:552][  0]LogInit: FAudioDevice initialized.
+[2021.12.13-18.26.55:552][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2021.12.13-18.26.55:552][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2021.12.13-18.26.55:666][  0]LogDerivedDataCache: Saved boot cache 0.11s 123MB C:/Users/india/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2021.12.13-18.26.55:672][  0]LogInit: Texture streaming: Enabled
+[2021.12.13-18.26.55:688][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.27.1-17735300+++UE4+Release-4.27
+[2021.12.13-18.26.55:693][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2021.12.13-18.26.55:693][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2021.12.13-18.26.55:696][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2021.12.13-18.26.55:722][  0]LogInit: Transaction tracking system initialized
+[2021.12.13-18.26.55:751][  0]BlueprintLog: New page: Editor Load
+[2021.12.13-18.26.55:850][  0]LocalizationService: Localization service is disabled
+[2021.12.13-18.26.55:884][  0]TimingProfiler: Initialize
+[2021.12.13-18.26.55:884][  0]TimingProfiler: OnSessionChanged
+[2021.12.13-18.26.55:884][  0]LoadingProfiler: Initialize
+[2021.12.13-18.26.55:884][  0]LoadingProfiler: OnSessionChanged
+[2021.12.13-18.26.55:884][  0]NetworkingProfiler: Initialize
+[2021.12.13-18.26.55:884][  0]NetworkingProfiler: OnSessionChanged
+[2021.12.13-18.26.55:884][  0]MemoryProfiler: Initialize
+[2021.12.13-18.26.55:884][  0]MemoryProfiler: OnSessionChanged
+[2021.12.13-18.26.56:003][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2021.12.13-18.26.56:004][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2021.12.13-18.26.56:004][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2021.12.13-18.26.56:128][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2021.12.13-18.26.56:128][  0]LogCook: Display: Mobile HDR setting 1
+[2021.12.13-18.26.56:197][  0]LogFileCache: Scanning file cache for directory 'C:/Users/india/Documents/Unreal Projects/VRProj/Content/' took 0.00s
+[2021.12.13-18.26.56:647][  0]LogImageWrapper: Warning: PNG Warning: Duplicate iCCP chunk
+[2021.12.13-18.26.56:647][  0]LogImageWrapper: Warning: PNG Warning: Duplicate iCCP chunk
+[2021.12.13-18.26.56:647][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2021.12.13-18.26.56:653][  0]SourceControl: Source control is disabled
+[2021.12.13-18.26.56:653][  0]LogUnrealEdMisc: Loading editor; pre map load, took 12.072
+[2021.12.13-18.26.56:657][  0]LogFactory: FactoryCreateFile: PackFactory with PackFactory (0 0 C:/Program Files/Epic Games/UE_4.27/FeaturePacks/StarterContent.upack)
+[2021.12.13-18.26.56:658][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.12.13-18.26.56:658][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.13-18.26.56:658][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.12.13-18.26.56:671][  0]LogPackFactory: Finished extracting 8 files (including 0 errors).
+[2021.12.13-18.26.56:678][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Floor_400x400.uasset" to "../../../../../../Users/india/Documents/Unreal Projects/VRProj/Content/StarterContent/Architecture/Floor_400x400.uasset"
+[2021.12.13-18.26.56:685][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Pillar_50x500.uasset" to "../../../../../../Users/india/Documents/Unreal Projects/VRProj/Content/StarterContent/Architecture/Pillar_50x500.uasset"
+[2021.12.13-18.26.56:692][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/SM_AssetPlatform.uasset" to "../../../../../../Users/india/Documents/Unreal Projects/VRProj/Content/StarterContent/Architecture/SM_AssetPlatform.uasset"
+[2021.12.13-18.26.56:699][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x200.uasset" to "../../../../../../Users/india/Documents/Unreal Projects/VRProj/Content/StarterContent/Architecture/Wall_400x200.uasset"
+[2021.12.13-18.26.56:706][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x300.uasset" to "../../../../../../Users/india/Documents/Unreal Projects/VRProj/Content/StarterContent/Architecture/Wall_400x300.uasset"
+[2021.12.13-18.26.56:714][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x400.uasset" to "../../../../../../Users/india/Documents/Unreal Projects/VRProj/Content/StarterContent/Architecture/Wall_400x400.uasset"
+[2021.12.13-18.26.56:720][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_500x500.uasset" to "../../../../../../Users/india/Documents/Unreal Projects/VRProj/Content/StarterContent/Architecture/Wall_500x500.uasset"
+[2021.12.13-18.26.56:727][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x300.uasset" to "../../../../../../Users/india/Documents/Unreal Projects/VRProj/Content/StarterContent/Architecture/Wall_Door_400x300.uasset"
+[2021.12.13-18.26.56:734][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x400.uasset" to "../../../../../../Users/india/Documents/Unreal Projects/VRProj/Content/StarterContent/Architecture/Wall_Door_400x400.uasset"
+[2021.12.13-18.26.56:740][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x300.uasset" to "../../../../../../Users/india/Documents/Unreal Projects/VRProj/Content/StarterContent/Architecture/Wall_Window_400x300.uasset"
+[2021.12.13-18.26.56:748][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x400.uasset" to "../../../../../../Users/india/Documents/Unreal Projects/VRProj/Content/StarterContent/Architecture/Wall_Window_400x400.uasset"
+[2021.12.13-18.26.56:756][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse01.uasset" to "../../../../../../Users/india/Documents/Unreal Projects/VRProj/Content/StarterContent/Audio/Collapse01.uasset"
+[2021.12.13-18.26.56:762][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse02.uasset" to "../../../../../../Users/india/Documents/Unreal Projects/VRProj/Content/StarterContent/Audio/Collapse02.uasset"
+[2021.12.13-18.26.56:768][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse_Cue.uasset" to "../../../../../../Users/india/Documents/Unreal Projects/VRProj/Content/StarterContent/Audio/Collapse_Cue.uasset"
+[2021.12.13-18.26.56:775][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion01.uasset" to "../../../../../../Users/india/Documents/Unreal Projects/VRProj/Content/StarterContent/Audio/Explosion01.uasset"
+[2021.12.13-18.26.56:781][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion02.uasset" to "../../../../../../Users/india/Documents/Unreal Projects/VRProj/Content/StarterContent/Audio/Explosion02.uasset"
+[2021.12.13-18.26.56:787][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion_Cue.uasset" to "../../../../../../Users/india/Documents/Unreal Projects/VRProj/Content/StarterContent/Audio/Explosion_Cue.uasset"
+[2021.12.13-18.26.56:794][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01.uasset" to "../../../../../../Users/india/Documents/Unreal Projects/VRProj/Content/StarterContent/Audio/Fire01.uasset"
+[2021.12.13-18.26.56:800][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01_Cue.uasset" to "../../../../../../Users/india/Documents/Unreal Projects/VRProj/Content/StarterContent/Audio/Fire01_Cue.uasset"
+[2021.12.13-18.26.56:806][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01.uasset" to "../../../../../../Users/india/Documents/Unreal Projects/VRProj/Content/StarterContent/Audio/Fire_Sparks01.uasset"
+[2021.12.13-18.26.56:812][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset" to "../../../../../../Users/india/Documents/Unreal Projects/VRProj/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset"
+[2021.12.13-18.26.56:819][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01.uasset" to "../../../../../../Users/india/Documents/Unreal Projects/VRProj/Content/StarterContent/Audio/Light01.uasset"
+[2021.12.13-18.26.56:826][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01_Cue.uasset" to "../../../../../../Users/india/Documents/Unreal Projects/VRProj/Content/StarterContent/Audio/Light01_Cue.uasset"
+[2021.12.13-18.26.56:835][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02.uasset" to "../../../../../../Users/india/Documents/Unreal Projects/VRProj/Content/StarterContent/Audio/Light02.uasset"
+[2021.12.13-18.26.56:841][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02_Cue.uasset" to "../../../../../../Users/india/Documents/Unreal Projects/VRProj/Content/StarterContent/Audio/Light02_Cue.uasset"
+[2021.12.13-18.26.56:850][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01.uasset" to "../../../../../../Users/india/Documents/Unreal Projects/VRProj/Content/StarterContent/Audio/Smoke01.uasset"
+[2021.12.13-18.26.56:856][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01_Cue.uasset" to "../../../../../../Users/india/Documents/Unreal Projects/VRProj/Content/StarterContent/Audio/Smoke01_Cue.uasset"
+[2021.12.13-18.26.56:867][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Background_Cue.uasset" to "../../../../../../Users/india/Documents/Unreal Projects/VRProj/Content/StarterContent/Audio/Starter_Background_Cue.uasset"
+[2021.12.13-18.26.56:878][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Birds01.uasset" to "../../../../../../Users/india/Documents/Unreal Projects/VRProj/Content/StarterContent/Audio/Starter_Birds01.uasset"
+[2021.12.13-18.26.56:898][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music01.uasset" to "../../../../../../Users/india/Documents/Unreal Projects/VRProj/Content/StarterContent/Audio/Starter_Music01.uasset"
+[2021.12.13-18.26.56:904][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music_Cue.uasset" to "../../../../../../Users/india/Documents/Unreal Projects/VRProj/Content/StarterContent/Audio/Starter_Music_Cue.uasset"
+[2021.12.13-18.26.56:915][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind05.uasset" to "../../../../../../Users/india/Documents/Unreal Projects/VRProj/Content/StarterContent/Audio/Starter_Wind05.uasset"
+[2021.12.13-18.26.56:925][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind06.uasset" to "../../../../../../Users/india/Documents/Unreal Projects/VRProj/Content/StarterContent/Audio/Starter_Wind06.uasset"
+[2021.12.13-18.26.56:935][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01.uasset" to "../../../../../../Users/india/Documents/Unreal Projects/VRProj/Content/StarterContent/Audio/Steam01.uasset"
+[2021.12.13-18.26.56:943][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01_Cue.uasset" to "../../../../../../Users/india/Documents/Unreal Projects/VRProj/Content/StarterContent/Audio/Steam01_Cue.uasset"
+[2021.12.13-18.26.56:955][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset" to "../../../../../../Users/india/Documents/Unreal Projects/VRProj/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset"
+[2021.12.13-18.26.56:962][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset" to "../../../../../../Users/india/Documents/Unreal Projects/VRProj/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset"
+[2021.12.13-18.26.56:970][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset" to "../../../../../../Users/india/Documents/Unreal Projects/VRProj/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset"
+[2021.12.13-18.26.56:978][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset" to "../../../../../../Users/india/Documents/Unreal Projects/VRProj/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset"
+[2021.12.13-18.26.56:986][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset" to "../../../../../../Users/india/Documents/Unreal Projects/VRProj/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset"
+[2021.12.13-18.26.56:994][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset" to "../../../../../../Users/india/Documents/Unreal Projects/VRProj/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset"
+[2021.12.13-18.26.57:002][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset" to "../../../../../../Users/india/Documents/Unreal Projects/VRProj/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset"
+[2021.12.13-18.26.57:010][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/BP_LightStudio.uasset" to "../../../../../../Users/india/Documents/Unreal Projects/VRProj/Content/StarterContent/Blueprints/BP_LightStudio.uasset"
+[2021.12.13-18.26.57:017][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset" to "../../../../../../Users/india/Documents/Unreal Projects/VRProj/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset"
+[2021.12.13-18.26.57:024][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset" to "../../../../../../Users/india/Documents/Unreal Projects/VRProj/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset"
+[2021.12.13-18.26.57:031][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset" to "../../../../../../Users/india/Documents/Unreal Projects/VRProj/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset"
+[2021.12.13-18.26.57:037][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset" to "../../../../../../Users/india/Documents/Unreal Projects/VRProj/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset"
+[2021.12.13-18.26.57:044][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset" to "../../../../../../Users/india/Documents/Unreal Projects/VRProj/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset"
+[2021.12.13-18.26.57:052][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/Skybox.uasset" to "../../../../../../Users/india/Documents/Unreal Projects/VRProj/Content/StarterContent/Blueprints/Assets/Skybox.uasset"
+[2021.12.13-18.26.57:066][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset" to "../../../../../../Users/india/Documents/Unreal Projects/VRProj/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset"
+[2021.12.13-18.26.57:073][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset" to "../../../../../../Users/india/Documents/Unreal Projects/VRProj/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset"
+[2021.12.13-18.26.57:209][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset" to "../../../../../../Users/india/Documents/Unreal Projects/VRProj/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
+[2021.12.13-18.26.57:218][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Advanced_Lighting.umap" to "../../../../../../Users/india/Documents/Unreal Projects/VRProj/Content/StarterContent/Maps/Advanced_Lighting.umap"
+[2021.12.13-18.26.57:227][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset" to "../../../../../../Users/india/Documents/Unreal Projects/VRProj/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset"
+[2021.12.13-18.26.57:237][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Minimal_Default.umap" to "../../../../../../Users/india/Documents/Unreal Projects/VRProj/Content/StarterContent/Maps/Minimal_Default.umap"
+[2021.12.13-18.26.57:251][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" to "../../../../../../Users/india/Documents/Unreal Projects/VRProj/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset"
+[2021.12.13-18.26.57:261][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/StarterMap.umap" to "../../../../../../Users/india/Documents/Unreal Projects/VRProj/Content/StarterContent/Maps/StarterMap.umap"
+[2021.12.13-18.26.57:306][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/StarterMap_BuiltData.uasset" to "../../../../../../Users/india/Documents/Unreal Projects/VRProj/Content/StarterContent/Maps/StarterMap_BuiltData.uasset"
+[2021.12.13-18.26.57:315][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_AssetPlatform.uasset" to "../../../../../../Users/india/Documents/Unreal Projects/VRProj/Content/StarterContent/Materials/M_AssetPlatform.uasset"
+[2021.12.13-18.26.57:323][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Floor.uasset" to "../../../../../../Users/india/Documents/Unreal Projects/VRProj/Content/StarterContent/Materials/M_Basic_Floor.uasset"
+[2021.12.13-18.26.57:331][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Wall.uasset" to "../../../../../../Users/india/Documents/Unreal Projects/VRProj/Content/StarterContent/Materials/M_Basic_Wall.uasset"
+[2021.12.13-18.26.57:337][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset" to "../../../../../../Users/india/Documents/Unreal Projects/VRProj/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset"
+[2021.12.13-18.26.57:343][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_New.uasset" to "../../../../../../Users/india/Documents/Unreal Projects/VRProj/Content/StarterContent/Materials/M_Brick_Clay_New.uasset"
+[2021.12.13-18.26.57:349][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset" to "../../../../../../Users/india/Documents/Unreal Projects/VRProj/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset"
+[2021.12.13-18.26.57:356][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset" to "../../../../../../Users/india/Documents/Unreal Projects/VRProj/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset"
+[2021.12.13-18.26.57:362][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset" to "../../../../../../Users/india/Documents/Unreal Projects/VRProj/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset"
+[2021.12.13-18.26.57:369][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset" to "../../../../../../Users/india/Documents/Unreal Projects/VRProj/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset"
+[2021.12.13-18.26.57:376][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset" to "../../../../../../Users/india/Documents/Unreal Projects/VRProj/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset"
+[2021.12.13-18.26.57:383][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset" to "../../../../../../Users/india/Documents/Unreal Projects/VRProj/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset"
+[2021.12.13-18.26.57:390][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset" to "../../../../../../Users/india/Documents/Unreal Projects/VRProj/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset"
+[2021.12.13-18.26.57:398][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset" to "../../../../../../Users/india/Documents/Unreal Projects/VRProj/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset"
+[2021.12.13-18.26.57:405][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Grime.uasset" to "../../../../../../Users/india/Documents/Unreal Projects/VRProj/Content/StarterContent/Materials/M_Concrete_Grime.uasset"
+[2021.12.13-18.26.57:412][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Panels.uasset" to "../../../../../../Users/india/Documents/Unreal Projects/VRProj/Content/StarterContent/Materials/M_Concrete_Panels.uasset"
+[2021.12.13-18.26.57:418][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Poured.uasset" to "../../../../../../Users/india/Documents/Unreal Projects/VRProj/Content/StarterContent/Materials/M_Concrete_Poured.uasset"
+[2021.12.13-18.26.57:425][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Tiles.uasset" to "../../../../../../Users/india/Documents/Unreal Projects/VRProj/Content/StarterContent/Materials/M_Concrete_Tiles.uasset"
+[2021.12.13-18.26.57:432][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Glass.uasset" to "../../../../../../Users/india/Documents/Unreal Projects/VRProj/Content/StarterContent/Materials/M_Glass.uasset"
+[2021.12.13-18.26.57:438][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Grass.uasset" to "../../../../../../Users/india/Documents/Unreal Projects/VRProj/Content/StarterContent/Materials/M_Ground_Grass.uasset"
+[2021.12.13-18.26.57:444][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Gravel.uasset" to "../../../../../../Users/india/Documents/Unreal Projects/VRProj/Content/StarterContent/Materials/M_Ground_Gravel.uasset"
+[2021.12.13-18.26.57:451][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Moss.uasset" to "../../../../../../Users/india/Documents/Unreal Projects/VRProj/Content/StarterContent/Materials/M_Ground_Moss.uasset"
+[2021.12.13-18.26.57:457][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset" to "../../../../../../Users/india/Documents/Unreal Projects/VRProj/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset"
+[2021.12.13-18.26.57:463][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset" to "../../../../../../Users/india/Documents/Unreal Projects/VRProj/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset"
+[2021.12.13-18.26.57:469][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Chrome.uasset" to "../../../../../../Users/india/Documents/Unreal Projects/VRProj/Content/StarterContent/Materials/M_Metal_Chrome.uasset"
+[2021.12.13-18.26.57:475][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Copper.uasset" to "../../../../../../Users/india/Documents/Unreal Projects/VRProj/Content/StarterContent/Materials/M_Metal_Copper.uasset"
+[2021.12.13-18.26.57:482][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Gold.uasset" to "../../../../../../Users/india/Documents/Unreal Projects/VRProj/Content/StarterContent/Materials/M_Metal_Gold.uasset"
+[2021.12.13-18.26.57:489][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Rust.uasset" to "../../../../../../Users/india/Documents/Unreal Projects/VRProj/Content/StarterContent/Materials/M_Metal_Rust.uasset"
+[2021.12.13-18.26.57:496][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Steel.uasset" to "../../../../../../Users/india/Documents/Unreal Projects/VRProj/Content/StarterContent/Materials/M_Metal_Steel.uasset"
+[2021.12.13-18.26.57:502][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Basalt.uasset" to "../../../../../../Users/india/Documents/Unreal Projects/VRProj/Content/StarterContent/Materials/M_Rock_Basalt.uasset"
+[2021.12.13-18.26.57:518][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset" to "../../../../../../Users/india/Documents/Unreal Projects/VRProj/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset"
+[2021.12.13-18.26.57:528][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Sandstone.uasset" to "../../../../../../Users/india/Documents/Unreal Projects/VRProj/Content/StarterContent/Materials/M_Rock_Sandstone.uasset"
+[2021.12.13-18.26.57:537][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Slate.uasset" to "../../../../../../Users/india/Documents/Unreal Projects/VRProj/Content/StarterContent/Materials/M_Rock_Slate.uasset"
+[2021.12.13-18.26.57:545][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset" to "../../../../../../Users/india/Documents/Unreal Projects/VRProj/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset"
+[2021.12.13-18.26.57:558][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset" to "../../../../../../Users/india/Documents/Unreal Projects/VRProj/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset"
+[2021.12.13-18.26.57:572][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset" to "../../../../../../Users/india/Documents/Unreal Projects/VRProj/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset"
+[2021.12.13-18.26.57:579][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Panel.uasset" to "../../../../../../Users/india/Documents/Unreal Projects/VRProj/Content/StarterContent/Materials/M_Tech_Panel.uasset"
+[2021.12.13-18.26.57:586][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Lake.uasset" to "../../../../../../Users/india/Documents/Unreal Projects/VRProj/Content/StarterContent/Materials/M_Water_Lake.uasset"
+[2021.12.13-18.26.57:596][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Ocean.uasset" to "../../../../../../Users/india/Documents/Unreal Projects/VRProj/Content/StarterContent/Materials/M_Water_Ocean.uasset"
+[2021.12.13-18.26.57:603][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset" to "../../../../../../Users/india/Documents/Unreal Projects/VRProj/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset"
+[2021.12.13-18.26.57:610][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset" to "../../../../../../Users/india/Documents/Unreal Projects/VRProj/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset"
+[2021.12.13-18.26.57:618][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Oak.uasset" to "../../../../../../Users/india/Documents/Unreal Projects/VRProj/Content/StarterContent/Materials/M_Wood_Oak.uasset"
+[2021.12.13-18.26.57:624][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Pine.uasset" to "../../../../../../Users/india/Documents/Unreal Projects/VRProj/Content/StarterContent/Materials/M_Wood_Pine.uasset"
+[2021.12.13-18.26.57:631][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Walnut.uasset" to "../../../../../../Users/india/Documents/Unreal Projects/VRProj/Content/StarterContent/Materials/M_Wood_Walnut.uasset"
+[2021.12.13-18.26.57:638][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Ambient_Dust.uasset" to "../../../../../../Users/india/Documents/Unreal Projects/VRProj/Content/StarterContent/Particles/P_Ambient_Dust.uasset"
+[2021.12.13-18.26.57:647][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Explosion.uasset" to "../../../../../../Users/india/Documents/Unreal Projects/VRProj/Content/StarterContent/Particles/P_Explosion.uasset"
+[2021.12.13-18.26.57:654][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Fire.uasset" to "../../../../../../Users/india/Documents/Unreal Projects/VRProj/Content/StarterContent/Particles/P_Fire.uasset"
+[2021.12.13-18.26.57:661][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Smoke.uasset" to "../../../../../../Users/india/Documents/Unreal Projects/VRProj/Content/StarterContent/Particles/P_Smoke.uasset"
+[2021.12.13-18.26.57:668][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Sparks.uasset" to "../../../../../../Users/india/Documents/Unreal Projects/VRProj/Content/StarterContent/Particles/P_Sparks.uasset"
+[2021.12.13-18.26.57:675][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Steam_Lit.uasset" to "../../../../../../Users/india/Documents/Unreal Projects/VRProj/Content/StarterContent/Particles/P_Steam_Lit.uasset"
+[2021.12.13-18.26.57:681][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Burst.uasset" to "../../../../../../Users/india/Documents/Unreal Projects/VRProj/Content/StarterContent/Particles/Materials/M_Burst.uasset"
+[2021.12.13-18.26.57:688][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset" to "../../../../../../Users/india/Documents/Unreal Projects/VRProj/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset"
+[2021.12.13-18.26.57:696][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset" to "../../../../../../Users/india/Documents/Unreal Projects/VRProj/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset"
+[2021.12.13-18.26.57:703][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset" to "../../../../../../Users/india/Documents/Unreal Projects/VRProj/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset"
+[2021.12.13-18.26.57:709][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/m_flare_01.uasset" to "../../../../../../Users/india/Documents/Unreal Projects/VRProj/Content/StarterContent/Particles/Materials/m_flare_01.uasset"
+[2021.12.13-18.26.57:715][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset" to "../../../../../../Users/india/Documents/Unreal Projects/VRProj/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset"
+[2021.12.13-18.26.57:722][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset" to "../../../../../../Users/india/Documents/Unreal Projects/VRProj/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset"
+[2021.12.13-18.26.57:728][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset" to "../../../../../../Users/india/Documents/Unreal Projects/VRProj/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset"
+[2021.12.13-18.26.57:738][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset" to "../../../../../../Users/india/Documents/Unreal Projects/VRProj/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset"
+[2021.12.13-18.26.57:751][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Spark.uasset" to "../../../../../../Users/india/Documents/Unreal Projects/VRProj/Content/StarterContent/Particles/Materials/M_Spark.uasset"
+[2021.12.13-18.26.57:758][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/MaterialSphere.uasset" to "../../../../../../Users/india/Documents/Unreal Projects/VRProj/Content/StarterContent/Props/MaterialSphere.uasset"
+[2021.12.13-18.26.57:767][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Bush.uasset" to "../../../../../../Users/india/Documents/Unreal Projects/VRProj/Content/StarterContent/Props/SM_Bush.uasset"
+[2021.12.13-18.26.57:774][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Chair.uasset" to "../../../../../../Users/india/Documents/Unreal Projects/VRProj/Content/StarterContent/Props/SM_Chair.uasset"
+[2021.12.13-18.26.57:782][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_CornerFrame.uasset" to "../../../../../../Users/india/Documents/Unreal Projects/VRProj/Content/StarterContent/Props/SM_CornerFrame.uasset"
+[2021.12.13-18.26.57:789][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Couch.uasset" to "../../../../../../Users/india/Documents/Unreal Projects/VRProj/Content/StarterContent/Props/SM_Couch.uasset"
+[2021.12.13-18.26.57:794][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Door.uasset" to "../../../../../../Users/india/Documents/Unreal Projects/VRProj/Content/StarterContent/Props/SM_Door.uasset"
+[2021.12.13-18.26.57:801][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_DoorFrame.uasset" to "../../../../../../Users/india/Documents/Unreal Projects/VRProj/Content/StarterContent/Props/SM_DoorFrame.uasset"
+[2021.12.13-18.26.57:811][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_GlassWindow.uasset" to "../../../../../../Users/india/Documents/Unreal Projects/VRProj/Content/StarterContent/Props/SM_GlassWindow.uasset"
+[2021.12.13-18.26.57:818][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset" to "../../../../../../Users/india/Documents/Unreal Projects/VRProj/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset"
+[2021.12.13-18.26.57:826][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Wall.uasset" to "../../../../../../Users/india/Documents/Unreal Projects/VRProj/Content/StarterContent/Props/SM_Lamp_Wall.uasset"
+[2021.12.13-18.26.57:836][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset" to "../../../../../../Users/india/Documents/Unreal Projects/VRProj/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset"
+[2021.12.13-18.26.57:842][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame.uasset" to "../../../../../../Users/india/Documents/Unreal Projects/VRProj/Content/StarterContent/Props/SM_PillarFrame.uasset"
+[2021.12.13-18.26.57:849][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame300.uasset" to "../../../../../../Users/india/Documents/Unreal Projects/VRProj/Content/StarterContent/Props/SM_PillarFrame300.uasset"
+[2021.12.13-18.26.57:856][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Rock.uasset" to "../../../../../../Users/india/Documents/Unreal Projects/VRProj/Content/StarterContent/Props/SM_Rock.uasset"
+[2021.12.13-18.26.57:862][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Shelf.uasset" to "../../../../../../Users/india/Documents/Unreal Projects/VRProj/Content/StarterContent/Props/SM_Shelf.uasset"
+[2021.12.13-18.26.57:869][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Stairs.uasset" to "../../../../../../Users/india/Documents/Unreal Projects/VRProj/Content/StarterContent/Props/SM_Stairs.uasset"
+[2021.12.13-18.26.57:876][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Statue.uasset" to "../../../../../../Users/india/Documents/Unreal Projects/VRProj/Content/StarterContent/Props/SM_Statue.uasset"
+[2021.12.13-18.26.57:899][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_TableRound.uasset" to "../../../../../../Users/india/Documents/Unreal Projects/VRProj/Content/StarterContent/Props/SM_TableRound.uasset"
+[2021.12.13-18.26.57:906][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_WindowFrame.uasset" to "../../../../../../Users/india/Documents/Unreal Projects/VRProj/Content/StarterContent/Props/SM_WindowFrame.uasset"
+[2021.12.13-18.26.57:915][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Bush.uasset" to "../../../../../../Users/india/Documents/Unreal Projects/VRProj/Content/StarterContent/Props/Materials/M_Bush.uasset"
+[2021.12.13-18.26.57:922][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Chair.uasset" to "../../../../../../Users/india/Documents/Unreal Projects/VRProj/Content/StarterContent/Props/Materials/M_Chair.uasset"
+[2021.12.13-18.26.57:928][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Door.uasset" to "../../../../../../Users/india/Documents/Unreal Projects/VRProj/Content/StarterContent/Props/Materials/M_Door.uasset"
+[2021.12.13-18.26.57:935][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Frame.uasset" to "../../../../../../Users/india/Documents/Unreal Projects/VRProj/Content/StarterContent/Props/Materials/M_Frame.uasset"
+[2021.12.13-18.26.57:941][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Lamp.uasset" to "../../../../../../Users/india/Documents/Unreal Projects/VRProj/Content/StarterContent/Props/Materials/M_Lamp.uasset"
+[2021.12.13-18.26.57:948][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset" to "../../../../../../Users/india/Documents/Unreal Projects/VRProj/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset"
+[2021.12.13-18.26.57:956][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset" to "../../../../../../Users/india/Documents/Unreal Projects/VRProj/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset"
+[2021.12.13-18.26.57:962][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Rock.uasset" to "../../../../../../Users/india/Documents/Unreal Projects/VRProj/Content/StarterContent/Props/Materials/M_Rock.uasset"
+[2021.12.13-18.26.57:969][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Shelf.uasset" to "../../../../../../Users/india/Documents/Unreal Projects/VRProj/Content/StarterContent/Props/Materials/M_Shelf.uasset"
+[2021.12.13-18.26.57:976][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Statue.uasset" to "../../../../../../Users/india/Documents/Unreal Projects/VRProj/Content/StarterContent/Props/Materials/M_Statue.uasset"
+[2021.12.13-18.26.57:982][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_StatueGlass.uasset" to "../../../../../../Users/india/Documents/Unreal Projects/VRProj/Content/StarterContent/Props/Materials/M_StatueGlass.uasset"
+[2021.12.13-18.26.57:989][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_TableRound.uasset" to "../../../../../../Users/india/Documents/Unreal Projects/VRProj/Content/StarterContent/Props/Materials/M_TableRound.uasset"
+[2021.12.13-18.26.57:996][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cone.uasset" to "../../../../../../Users/india/Documents/Unreal Projects/VRProj/Content/StarterContent/Shapes/Shape_Cone.uasset"
+[2021.12.13-18.26.58:004][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cube.uasset" to "../../../../../../Users/india/Documents/Unreal Projects/VRProj/Content/StarterContent/Shapes/Shape_Cube.uasset"
+[2021.12.13-18.26.58:014][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cylinder.uasset" to "../../../../../../Users/india/Documents/Unreal Projects/VRProj/Content/StarterContent/Shapes/Shape_Cylinder.uasset"
+[2021.12.13-18.26.58:022][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset" to "../../../../../../Users/india/Documents/Unreal Projects/VRProj/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset"
+[2021.12.13-18.26.58:030][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe.uasset" to "../../../../../../Users/india/Documents/Unreal Projects/VRProj/Content/StarterContent/Shapes/Shape_Pipe.uasset"
+[2021.12.13-18.26.58:037][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_180.uasset" to "../../../../../../Users/india/Documents/Unreal Projects/VRProj/Content/StarterContent/Shapes/Shape_Pipe_180.uasset"
+[2021.12.13-18.26.58:043][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_90.uasset" to "../../../../../../Users/india/Documents/Unreal Projects/VRProj/Content/StarterContent/Shapes/Shape_Pipe_90.uasset"
+[2021.12.13-18.26.58:049][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Plane.uasset" to "../../../../../../Users/india/Documents/Unreal Projects/VRProj/Content/StarterContent/Shapes/Shape_Plane.uasset"
+[2021.12.13-18.26.58:055][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset" to "../../../../../../Users/india/Documents/Unreal Projects/VRProj/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset"
+[2021.12.13-18.26.58:064][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Sphere.uasset" to "../../../../../../Users/india/Documents/Unreal Projects/VRProj/Content/StarterContent/Shapes/Shape_Sphere.uasset"
+[2021.12.13-18.26.58:072][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Torus.uasset" to "../../../../../../Users/india/Documents/Unreal Projects/VRProj/Content/StarterContent/Shapes/Shape_Torus.uasset"
+[2021.12.13-18.26.58:078][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim.uasset" to "../../../../../../Users/india/Documents/Unreal Projects/VRProj/Content/StarterContent/Shapes/Shape_Trim.uasset"
+[2021.12.13-18.26.58:085][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset" to "../../../../../../Users/india/Documents/Unreal Projects/VRProj/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset"
+[2021.12.13-18.26.58:093][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset" to "../../../../../../Users/india/Documents/Unreal Projects/VRProj/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset"
+[2021.12.13-18.26.58:099][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_TriPyramid.uasset" to "../../../../../../Users/india/Documents/Unreal Projects/VRProj/Content/StarterContent/Shapes/Shape_TriPyramid.uasset"
+[2021.12.13-18.26.58:107][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Tube.uasset" to "../../../../../../Users/india/Documents/Unreal Projects/VRProj/Content/StarterContent/Shapes/Shape_Tube.uasset"
+[2021.12.13-18.26.58:114][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_A.uasset" to "../../../../../../Users/india/Documents/Unreal Projects/VRProj/Content/StarterContent/Shapes/Shape_Wedge_A.uasset"
+[2021.12.13-18.26.58:122][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_B.uasset" to "../../../../../../Users/india/Documents/Unreal Projects/VRProj/Content/StarterContent/Shapes/Shape_Wedge_B.uasset"
+[2021.12.13-18.26.58:129][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_WideCapsule.uasset" to "../../../../../../Users/india/Documents/Unreal Projects/VRProj/Content/StarterContent/Shapes/Shape_WideCapsule.uasset"
+[2021.12.13-18.26.58:145][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset" to "../../../../../../Users/india/Documents/Unreal Projects/VRProj/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset"
+[2021.12.13-18.26.58:166][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset" to "../../../../../../Users/india/Documents/Unreal Projects/VRProj/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset"
+[2021.12.13-18.26.58:183][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset" to "../../../../../../Users/india/Documents/Unreal Projects/VRProj/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset"
+[2021.12.13-18.26.58:197][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset" to "../../../../../../Users/india/Documents/Unreal Projects/VRProj/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset"
+[2021.12.13-18.26.58:216][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset" to "../../../../../../Users/india/Documents/Unreal Projects/VRProj/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset"
+[2021.12.13-18.26.58:233][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset" to "../../../../../../Users/india/Documents/Unreal Projects/VRProj/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset"
+[2021.12.13-18.26.58:256][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset" to "../../../../../../Users/india/Documents/Unreal Projects/VRProj/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset"
+[2021.12.13-18.26.58:275][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset" to "../../../../../../Users/india/Documents/Unreal Projects/VRProj/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset"
+[2021.12.13-18.26.58:297][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset" to "../../../../../../Users/india/Documents/Unreal Projects/VRProj/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset"
+[2021.12.13-18.26.58:312][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset" to "../../../../../../Users/india/Documents/Unreal Projects/VRProj/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset"
+[2021.12.13-18.26.58:330][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset" to "../../../../../../Users/india/Documents/Unreal Projects/VRProj/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset"
+[2021.12.13-18.26.58:344][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset" to "../../../../../../Users/india/Documents/Unreal Projects/VRProj/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset"
+[2021.12.13-18.26.58:361][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset" to "../../../../../../Users/india/Documents/Unreal Projects/VRProj/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset"
+[2021.12.13-18.26.58:370][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Burst_M.uasset" to "../../../../../../Users/india/Documents/Unreal Projects/VRProj/Content/StarterContent/Textures/T_Burst_M.uasset"
+[2021.12.13-18.26.58:377][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_D.uasset" to "../../../../../../Users/india/Documents/Unreal Projects/VRProj/Content/StarterContent/Textures/T_Bush_D.uasset"
+[2021.12.13-18.26.58:383][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_N.uasset" to "../../../../../../Users/india/Documents/Unreal Projects/VRProj/Content/StarterContent/Textures/T_Bush_N.uasset"
+[2021.12.13-18.26.58:390][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset" to "../../../../../../Users/india/Documents/Unreal Projects/VRProj/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset"
+[2021.12.13-18.26.58:398][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset" to "../../../../../../Users/india/Documents/Unreal Projects/VRProj/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset"
+[2021.12.13-18.26.58:408][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_M.uasset" to "../../../../../../Users/india/Documents/Unreal Projects/VRProj/Content/StarterContent/Textures/T_Chair_M.uasset"
+[2021.12.13-18.26.58:452][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_N.uasset" to "../../../../../../Users/india/Documents/Unreal Projects/VRProj/Content/StarterContent/Textures/T_Chair_N.uasset"
+[2021.12.13-18.26.58:463][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Checker_Noise_M.uasset" to "../../../../../../Users/india/Documents/Unreal Projects/VRProj/Content/StarterContent/Textures/T_Checker_Noise_M.uasset"
+[2021.12.13-18.26.58:488][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset" to "../../../../../../Users/india/Documents/Unreal Projects/VRProj/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset"
+[2021.12.13-18.26.58:496][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset" to "../../../../../../Users/india/Documents/Unreal Projects/VRProj/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset"
+[2021.12.13-18.26.58:518][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset" to "../../../../../../Users/india/Documents/Unreal Projects/VRProj/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset"
+[2021.12.13-18.26.58:531][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset" to "../../../../../../Users/india/Documents/Unreal Projects/VRProj/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset"
+[2021.12.13-18.26.58:543][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset" to "../../../../../../Users/india/Documents/Unreal Projects/VRProj/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset"
+[2021.12.13-18.26.58:634][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset" to "../../../../../../Users/india/Documents/Unreal Projects/VRProj/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset"
+[2021.12.13-18.26.58:650][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset" to "../../../../../../Users/india/Documents/Unreal Projects/VRProj/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset"
+[2021.12.13-18.26.58:668][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset" to "../../../../../../Users/india/Documents/Unreal Projects/VRProj/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset"
+[2021.12.13-18.26.58:692][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset" to "../../../../../../Users/india/Documents/Unreal Projects/VRProj/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset"
+[2021.12.13-18.26.58:716][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset" to "../../../../../../Users/india/Documents/Unreal Projects/VRProj/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset"
+[2021.12.13-18.26.58:733][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset" to "../../../../../../Users/india/Documents/Unreal Projects/VRProj/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset"
+[2021.12.13-18.26.58:754][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset" to "../../../../../../Users/india/Documents/Unreal Projects/VRProj/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset"
+[2021.12.13-18.26.58:775][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset" to "../../../../../../Users/india/Documents/Unreal Projects/VRProj/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset"
+[2021.12.13-18.26.58:795][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset" to "../../../../../../Users/india/Documents/Unreal Projects/VRProj/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset"
+[2021.12.13-18.26.58:808][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset" to "../../../../../../Users/india/Documents/Unreal Projects/VRProj/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset"
+[2021.12.13-18.26.58:823][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset" to "../../../../../../Users/india/Documents/Unreal Projects/VRProj/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset"
+[2021.12.13-18.26.58:830][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset" to "../../../../../../Users/india/Documents/Unreal Projects/VRProj/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset"
+[2021.12.13-18.26.58:841][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset" to "../../../../../../Users/india/Documents/Unreal Projects/VRProj/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset"
+[2021.12.13-18.26.58:850][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_M.uasset" to "../../../../../../Users/india/Documents/Unreal Projects/VRProj/Content/StarterContent/Textures/T_Door_M.uasset"
+[2021.12.13-18.26.58:858][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_N.uasset" to "../../../../../../Users/india/Documents/Unreal Projects/VRProj/Content/StarterContent/Textures/T_Door_N.uasset"
+[2021.12.13-18.26.58:864][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Dust_Particle_D.uasset" to "../../../../../../Users/india/Documents/Unreal Projects/VRProj/Content/StarterContent/Textures/T_Dust_Particle_D.uasset"
+[2021.12.13-18.26.58:874][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Explosion_SubUV.uasset" to "../../../../../../Users/india/Documents/Unreal Projects/VRProj/Content/StarterContent/Textures/T_Explosion_SubUV.uasset"
+[2021.12.13-18.26.58:887][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_SubUV.uasset" to "../../../../../../Users/india/Documents/Unreal Projects/VRProj/Content/StarterContent/Textures/T_Fire_SubUV.uasset"
+[2021.12.13-18.26.58:902][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset" to "../../../../../../Users/india/Documents/Unreal Projects/VRProj/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset"
+[2021.12.13-18.26.58:912][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_M.uasset" to "../../../../../../Users/india/Documents/Unreal Projects/VRProj/Content/StarterContent/Textures/T_Frame_M.uasset"
+[2021.12.13-18.26.58:933][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_N.uasset" to "../../../../../../Users/india/Documents/Unreal Projects/VRProj/Content/StarterContent/Textures/T_Frame_N.uasset"
+[2021.12.13-18.26.58:942][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Gradinet_01.uasset" to "../../../../../../Users/india/Documents/Unreal Projects/VRProj/Content/StarterContent/Textures/T_Gradinet_01.uasset"
+[2021.12.13-18.26.59:013][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_D.uasset" to "../../../../../../Users/india/Documents/Unreal Projects/VRProj/Content/StarterContent/Textures/T_Ground_Grass_D.uasset"
+[2021.12.13-18.26.59:065][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_N.uasset" to "../../../../../../Users/india/Documents/Unreal Projects/VRProj/Content/StarterContent/Textures/T_Ground_Grass_N.uasset"
+[2021.12.13-18.26.59:106][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset" to "../../../../../../Users/india/Documents/Unreal Projects/VRProj/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset"
+[2021.12.13-18.26.59:150][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset" to "../../../../../../Users/india/Documents/Unreal Projects/VRProj/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset"
+[2021.12.13-18.26.59:272][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_ground_Moss_D.uasset" to "../../../../../../Users/india/Documents/Unreal Projects/VRProj/Content/StarterContent/Textures/T_ground_Moss_D.uasset"
+[2021.12.13-18.26.59:314][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Moss_N.uasset" to "../../../../../../Users/india/Documents/Unreal Projects/VRProj/Content/StarterContent/Textures/T_Ground_Moss_N.uasset"
+[2021.12.13-18.26.59:331][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_M.uasset" to "../../../../../../Users/india/Documents/Unreal Projects/VRProj/Content/StarterContent/Textures/T_Lamp_M.uasset"
+[2021.12.13-18.26.59:355][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_N.uasset" to "../../../../../../Users/india/Documents/Unreal Projects/VRProj/Content/StarterContent/Textures/T_Lamp_N.uasset"
+[2021.12.13-18.26.59:400][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_MacroVariation.uasset" to "../../../../../../Users/india/Documents/Unreal Projects/VRProj/Content/StarterContent/Textures/T_MacroVariation.uasset"
+[2021.12.13-18.26.59:440][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset" to "../../../../../../Users/india/Documents/Unreal Projects/VRProj/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset"
+[2021.12.13-18.26.59:471][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Copper_D.uasset" to "../../../../../../Users/india/Documents/Unreal Projects/VRProj/Content/StarterContent/Textures/T_Metal_Copper_D.uasset"
+[2021.12.13-18.26.59:493][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_D.uasset" to "../../../../../../Users/india/Documents/Unreal Projects/VRProj/Content/StarterContent/Textures/T_Metal_Gold_D.uasset"
+[2021.12.13-18.26.59:563][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_N.uasset" to "../../../../../../Users/india/Documents/Unreal Projects/VRProj/Content/StarterContent/Textures/T_Metal_Gold_N.uasset"
+[2021.12.13-18.26.59:582][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_D.uasset" to "../../../../../../Users/india/Documents/Unreal Projects/VRProj/Content/StarterContent/Textures/T_Metal_Rust_D.uasset"
+[2021.12.13-18.26.59:601][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_N.uasset" to "../../../../../../Users/india/Documents/Unreal Projects/VRProj/Content/StarterContent/Textures/T_Metal_Rust_N.uasset"
+[2021.12.13-18.26.59:616][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_D.uasset" to "../../../../../../Users/india/Documents/Unreal Projects/VRProj/Content/StarterContent/Textures/T_Metal_Steel_D.uasset"
+[2021.12.13-18.26.59:631][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_N.uasset" to "../../../../../../Users/india/Documents/Unreal Projects/VRProj/Content/StarterContent/Textures/T_Metal_Steel_N.uasset"
+[2021.12.13-18.26.59:651][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset" to "../../../../../../Users/india/Documents/Unreal Projects/VRProj/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset"
+[2021.12.13-18.26.59:667][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_M.uasset" to "../../../../../../Users/india/Documents/Unreal Projects/VRProj/Content/StarterContent/Textures/T_RockMesh_M.uasset"
+[2021.12.13-18.26.59:682][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_N.uasset" to "../../../../../../Users/india/Documents/Unreal Projects/VRProj/Content/StarterContent/Textures/T_RockMesh_N.uasset"
+[2021.12.13-18.26.59:701][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset" to "../../../../../../Users/india/Documents/Unreal Projects/VRProj/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset"
+[2021.12.13-18.26.59:721][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset" to "../../../../../../Users/india/Documents/Unreal Projects/VRProj/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset"
+[2021.12.13-18.26.59:735][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset" to "../../../../../../Users/india/Documents/Unreal Projects/VRProj/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset"
+[2021.12.13-18.26.59:754][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset" to "../../../../../../Users/india/Documents/Unreal Projects/VRProj/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset"
+[2021.12.13-18.26.59:776][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset" to "../../../../../../Users/india/Documents/Unreal Projects/VRProj/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset"
+[2021.12.13-18.26.59:798][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_D.uasset" to "../../../../../../Users/india/Documents/Unreal Projects/VRProj/Content/StarterContent/Textures/T_Rock_Slate_D.uasset"
+[2021.12.13-18.26.59:819][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_N.uasset" to "../../../../../../Users/india/Documents/Unreal Projects/VRProj/Content/StarterContent/Textures/T_Rock_Slate_N.uasset"
+[2021.12.13-18.26.59:841][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset" to "../../../../../../Users/india/Documents/Unreal Projects/VRProj/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset"
+[2021.12.13-18.26.59:850][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_M.uasset" to "../../../../../../Users/india/Documents/Unreal Projects/VRProj/Content/StarterContent/Textures/T_Shelf_M.uasset"
+[2021.12.13-18.26.59:862][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_N.uasset" to "../../../../../../Users/india/Documents/Unreal Projects/VRProj/Content/StarterContent/Textures/T_Shelf_N.uasset"
+[2021.12.13-18.26.59:870][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Single_Tile_N.uasset" to "../../../../../../Users/india/Documents/Unreal Projects/VRProj/Content/StarterContent/Textures/T_Single_Tile_N.uasset"
+[2021.12.13-18.26.59:890][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_SubUV.uasset" to "../../../../../../Users/india/Documents/Unreal Projects/VRProj/Content/StarterContent/Textures/T_Smoke_SubUV.uasset"
+[2021.12.13-18.26.59:899][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset" to "../../../../../../Users/india/Documents/Unreal Projects/VRProj/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset"
+[2021.12.13-18.26.59:907][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Spark_Core.uasset" to "../../../../../../Users/india/Documents/Unreal Projects/VRProj/Content/StarterContent/Textures/T_Spark_Core.uasset"
+[2021.12.13-18.26.59:915][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_M.uasset" to "../../../../../../Users/india/Documents/Unreal Projects/VRProj/Content/StarterContent/Textures/T_Statue_M.uasset"
+[2021.12.13-18.26.59:923][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_N.uasset" to "../../../../../../Users/india/Documents/Unreal Projects/VRProj/Content/StarterContent/Textures/T_Statue_N.uasset"
+[2021.12.13-18.26.59:954][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_M.uasset" to "../../../../../../Users/india/Documents/Unreal Projects/VRProj/Content/StarterContent/Textures/T_TableRound_M.uasset"
+[2021.12.13-18.26.59:964][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_N.uasset" to "../../../../../../Users/india/Documents/Unreal Projects/VRProj/Content/StarterContent/Textures/T_TableRound_N.uasset"
+[2021.12.13-18.26.59:975][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_M.uasset" to "../../../../../../Users/india/Documents/Unreal Projects/VRProj/Content/StarterContent/Textures/T_Tech_Dot_M.uasset"
+[2021.12.13-18.26.59:982][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_N.uasset" to "../../../../../../Users/india/Documents/Unreal Projects/VRProj/Content/StarterContent/Textures/T_Tech_Dot_N.uasset"
+[2021.12.13-18.26.59:991][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset" to "../../../../../../Users/india/Documents/Unreal Projects/VRProj/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset"
+[2021.12.13-18.27.00:010][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset" to "../../../../../../Users/india/Documents/Unreal Projects/VRProj/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset"
+[2021.12.13-18.27.00:047][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_M.uasset" to "../../../../../../Users/india/Documents/Unreal Projects/VRProj/Content/StarterContent/Textures/T_Tech_Panel_M.uasset"
+[2021.12.13-18.27.00:058][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_N.uasset" to "../../../../../../Users/india/Documents/Unreal Projects/VRProj/Content/StarterContent/Textures/T_Tech_Panel_N.uasset"
+[2021.12.13-18.27.00:071][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_M.uasset" to "../../../../../../Users/india/Documents/Unreal Projects/VRProj/Content/StarterContent/Textures/T_Water_M.uasset"
+[2021.12.13-18.27.00:089][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_N.uasset" to "../../../../../../Users/india/Documents/Unreal Projects/VRProj/Content/StarterContent/Textures/T_Water_N.uasset"
+[2021.12.13-18.27.00:103][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset" to "../../../../../../Users/india/Documents/Unreal Projects/VRProj/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset"
+[2021.12.13-18.27.00:191][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset" to "../../../../../../Users/india/Documents/Unreal Projects/VRProj/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset"
+[2021.12.13-18.27.00:265][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset" to "../../../../../../Users/india/Documents/Unreal Projects/VRProj/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset"
+[2021.12.13-18.27.00:309][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_D.uasset" to "../../../../../../Users/india/Documents/Unreal Projects/VRProj/Content/StarterContent/Textures/T_Wood_Oak_D.uasset"
+[2021.12.13-18.27.00:352][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_N.uasset" to "../../../../../../Users/india/Documents/Unreal Projects/VRProj/Content/StarterContent/Textures/T_Wood_Oak_N.uasset"
+[2021.12.13-18.27.00:397][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_D.uasset" to "../../../../../../Users/india/Documents/Unreal Projects/VRProj/Content/StarterContent/Textures/T_Wood_Pine_D.uasset"
+[2021.12.13-18.27.00:433][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_N.uasset" to "../../../../../../Users/india/Documents/Unreal Projects/VRProj/Content/StarterContent/Textures/T_Wood_Pine_N.uasset"
+[2021.12.13-18.27.00:497][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset" to "../../../../../../Users/india/Documents/Unreal Projects/VRProj/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset"
+[2021.12.13-18.27.00:539][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset" to "../../../../../../Users/india/Documents/Unreal Projects/VRProj/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset"
+[2021.12.13-18.27.00:850][  0]LogRenderer: Reallocating scene render targets to support 256x256 Format 10 NumSamples 1 (Frame:1).
+[2021.12.13-18.27.00:947][  0]LogSavePackage: Moving '../../../../../../Users/india/Documents/Unreal Projects/VRProj/Saved/Floor_400x400C5E779254946DE77D4E4E0A7E1F8B8FD.tmp' to '../../../../../../Users/india/Documents/Unreal Projects/VRProj/Content/StarterContent/Architecture/Floor_400x400.uasset'
+[2021.12.13-18.27.00:949][  0]LogFeaturePack: Warning: Inserted 1 feature packs
+[2021.12.13-18.27.00:950][  0]Cmd: MAP LOAD FILE="../../../../../../Users/india/Documents/Unreal Projects/VRProj/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.12.13-18.27.00:951][  0]LightingResults: New page: Lighting Build
+[2021.12.13-18.27.00:953][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.12.13-18.27.00:954][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.13-18.27.00:954][  0]MapCheck: New page: Map Check
+[2021.12.13-18.27.00:954][  0]LightingResults: New page: Lighting Build
+[2021.12.13-18.27.00:960][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.12.13-18.27.00:966][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2021.12.13-18.27.01:360][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'ThirdPersonExampleMap'.
+[2021.12.13-18.27.01:362][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.12.13-18.27.01:392][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.12.13-18.27.01:402][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2021.12.13-18.27.01:404][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.12.13-18.27.01:404][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.177ms to complete.
+[2021.12.13-18.27.01:405][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.454
+[2021.12.13-18.27.01:407][  0]LogUnrealEdMisc: Total Editor Startup Time, took 16.826
+[2021.12.13-18.27.01:565][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.13-18.27.01:572][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.13-18.27.01:580][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.13-18.27.01:587][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.13-18.27.01:636][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0289 seconds. Added 3822 classes and 928 folders.
+[2021.12.13-18.27.01:676][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2021.12.13-18.27.01:678][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.12.13-18.27.01:678][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.13-18.27.01:678][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.12.13-18.27.01:678][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPerson.upack' (chunk index -1, root 'root:/') mounted
+[2021.12.13-18.27.01:678][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPerson.upack)
+[2021.12.13-18.27.01:678][  0]LogPakFile: OnPakFileMounted2Time == 0.000069
+[2021.12.13-18.27.01:679][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.12.13-18.27.01:679][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.13-18.27.01:679][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.12.13-18.27.01:679][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPersonBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.12.13-18.27.01:679][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPersonBP.upack)
+[2021.12.13-18.27.01:679][  0]LogPakFile: OnPakFileMounted2Time == 0.000051
+[2021.12.13-18.27.01:679][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2021.12.13-18.27.01:679][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.13-18.27.01:679][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2021.12.13-18.27.01:679][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/MobileStarterContent.upack' (chunk index -1, root 'root:/') mounted
+[2021.12.13-18.27.01:679][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/MobileStarterContent.upack)
+[2021.12.13-18.27.01:679][  0]LogPakFile: OnPakFileMounted2Time == 0.000043
+[2021.12.13-18.27.01:680][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.12.13-18.27.01:680][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.13-18.27.01:680][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.12.13-18.27.01:680][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/StarterContent.upack' (chunk index -1, root 'root:/') mounted
+[2021.12.13-18.27.01:680][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/StarterContent.upack)
+[2021.12.13-18.27.01:680][  0]LogPakFile: OnPakFileMounted2Time == 0.000044
+[2021.12.13-18.27.01:681][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.12.13-18.27.01:681][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.13-18.27.01:681][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.12.13-18.27.01:681][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScroller.upack' (chunk index -1, root 'root:/') mounted
+[2021.12.13-18.27.01:681][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScroller.upack)
+[2021.12.13-18.27.01:681][  0]LogPakFile: OnPakFileMounted2Time == 0.000042
+[2021.12.13-18.27.01:681][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.12.13-18.27.01:681][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.13-18.27.01:681][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.12.13-18.27.01:681][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScrollerBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.12.13-18.27.01:682][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScrollerBP.upack)
+[2021.12.13-18.27.01:682][  0]LogPakFile: OnPakFileMounted2Time == 0.000069
+[2021.12.13-18.27.01:682][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.12.13-18.27.01:682][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.13-18.27.01:682][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.12.13-18.27.01:682][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Flying.upack' (chunk index -1, root 'root:/') mounted
+[2021.12.13-18.27.01:682][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Flying.upack)
+[2021.12.13-18.27.01:682][  0]LogPakFile: OnPakFileMounted2Time == 0.000042
+[2021.12.13-18.27.01:683][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.12.13-18.27.01:683][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.13-18.27.01:683][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.12.13-18.27.01:683][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_FlyingBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.12.13-18.27.01:683][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_FlyingBP.upack)
+[2021.12.13-18.27.01:683][  0]LogPakFile: OnPakFileMounted2Time == 0.000045
+[2021.12.13-18.27.01:684][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.12.13-18.27.01:684][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.13-18.27.01:684][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.12.13-18.27.01:684][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_HandheldARBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.12.13-18.27.01:684][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_HandheldARBP.upack)
+[2021.12.13-18.27.01:684][  0]LogPakFile: OnPakFileMounted2Time == 0.000041
+[2021.12.13-18.27.01:684][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.12.13-18.27.01:684][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.13-18.27.01:684][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.12.13-18.27.01:684][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Puzzle.upack' (chunk index -1, root 'root:/') mounted
+[2021.12.13-18.27.01:684][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Puzzle.upack)
+[2021.12.13-18.27.01:684][  0]LogPakFile: OnPakFileMounted2Time == 0.000042
+[2021.12.13-18.27.01:685][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.12.13-18.27.01:685][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.13-18.27.01:685][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.12.13-18.27.01:685][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_PuzzleBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.12.13-18.27.01:685][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_PuzzleBP.upack)
+[2021.12.13-18.27.01:685][  0]LogPakFile: OnPakFileMounted2Time == 0.000050
+[2021.12.13-18.27.01:686][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.12.13-18.27.01:686][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.13-18.27.01:686][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.12.13-18.27.01:686][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Rolling.upack' (chunk index -1, root 'root:/') mounted
+[2021.12.13-18.27.01:686][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Rolling.upack)
+[2021.12.13-18.27.01:686][  0]LogPakFile: OnPakFileMounted2Time == 0.000064
+[2021.12.13-18.27.01:687][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.12.13-18.27.01:687][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.13-18.27.01:687][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.12.13-18.27.01:687][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_RollingBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.12.13-18.27.01:687][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_RollingBP.upack)
+[2021.12.13-18.27.01:687][  0]LogPakFile: OnPakFileMounted2Time == 0.000043
+[2021.12.13-18.27.01:688][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.12.13-18.27.01:688][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.13-18.27.01:688][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.12.13-18.27.01:688][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScroller.upack' (chunk index -1, root 'root:/') mounted
+[2021.12.13-18.27.01:688][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScroller.upack)
+[2021.12.13-18.27.01:688][  0]LogPakFile: OnPakFileMounted2Time == 0.000043
+[2021.12.13-18.27.01:688][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.12.13-18.27.01:688][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.13-18.27.01:689][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.12.13-18.27.01:689][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScrollerBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.12.13-18.27.01:689][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScrollerBP.upack)
+[2021.12.13-18.27.01:689][  0]LogPakFile: OnPakFileMounted2Time == 0.000044
+[2021.12.13-18.27.01:689][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.12.13-18.27.01:689][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.13-18.27.01:689][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.12.13-18.27.01:689][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPerson.upack' (chunk index -1, root 'root:/') mounted
+[2021.12.13-18.27.01:689][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPerson.upack)
+[2021.12.13-18.27.01:689][  0]LogPakFile: OnPakFileMounted2Time == 0.000043
+[2021.12.13-18.27.01:690][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.12.13-18.27.01:690][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.13-18.27.01:690][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.12.13-18.27.01:690][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPersonBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.12.13-18.27.01:690][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPersonBP.upack)
+[2021.12.13-18.27.01:690][  0]LogPakFile: OnPakFileMounted2Time == 0.000042
+[2021.12.13-18.27.01:691][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.12.13-18.27.01:691][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.13-18.27.01:691][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.12.13-18.27.01:691][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDown.upack' (chunk index -1, root 'root:/') mounted
+[2021.12.13-18.27.01:691][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDown.upack)
+[2021.12.13-18.27.01:691][  0]LogPakFile: OnPakFileMounted2Time == 0.000051
+[2021.12.13-18.27.01:691][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.12.13-18.27.01:691][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.13-18.27.01:691][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.12.13-18.27.01:691][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDownBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.12.13-18.27.01:691][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDownBP.upack)
+[2021.12.13-18.27.01:691][  0]LogPakFile: OnPakFileMounted2Time == 0.000047
+[2021.12.13-18.27.01:692][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.12.13-18.27.01:692][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.13-18.27.01:692][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.12.13-18.27.01:692][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStick.upack' (chunk index -1, root 'root:/') mounted
+[2021.12.13-18.27.01:692][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStick.upack)
+[2021.12.13-18.27.01:692][  0]LogPakFile: OnPakFileMounted2Time == 0.000048
+[2021.12.13-18.27.01:693][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.12.13-18.27.01:693][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.13-18.27.01:693][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.12.13-18.27.01:693][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStickBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.12.13-18.27.01:693][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStickBP.upack)
+[2021.12.13-18.27.01:693][  0]LogPakFile: OnPakFileMounted2Time == 0.000048
+[2021.12.13-18.27.01:694][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.12.13-18.27.01:694][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.13-18.27.01:694][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.12.13-18.27.01:694][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Vehicle.upack' (chunk index -1, root 'root:/') mounted
+[2021.12.13-18.27.01:694][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Vehicle.upack)
+[2021.12.13-18.27.01:694][  0]LogPakFile: OnPakFileMounted2Time == 0.000094
+[2021.12.13-18.27.01:695][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2021.12.13-18.27.01:695][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.13-18.27.01:695][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2021.12.13-18.27.01:695][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdv.upack' (chunk index -1, root 'root:/') mounted
+[2021.12.13-18.27.01:695][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdv.upack)
+[2021.12.13-18.27.01:696][  0]LogPakFile: OnPakFileMounted2Time == 0.000058
+[2021.12.13-18.27.01:696][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.12.13-18.27.01:696][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.13-18.27.01:696][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.12.13-18.27.01:696][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdvBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.12.13-18.27.01:696][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdvBP.upack)
+[2021.12.13-18.27.01:697][  0]LogPakFile: OnPakFileMounted2Time == 0.000052
+[2021.12.13-18.27.01:697][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.12.13-18.27.01:697][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.13-18.27.01:697][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.12.13-18.27.01:697][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.12.13-18.27.01:697][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleBP.upack)
+[2021.12.13-18.27.01:697][  0]LogPakFile: OnPakFileMounted2Time == 0.000043
+[2021.12.13-18.27.01:698][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.12.13-18.27.01:698][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.13-18.27.01:698][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.12.13-18.27.01:698][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VirtualRealityBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.12.13-18.27.01:698][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VirtualRealityBP.upack)
+[2021.12.13-18.27.01:698][  0]LogPakFile: OnPakFileMounted2Time == 0.000043
+[2021.12.13-18.27.01:749][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2021.12.13-18.27.01:761][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 2 classes and 0 folders.
+[2021.12.13-18.27.01:810][  0]LogSlate: Took 0.000150 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.12.13-18.27.01:822][  0]LogSlate: Took 0.010086 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.12.13-18.27.01:823][  0]LogSlate: Took 0.000129 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.12.13-18.27.01:909][  0]LogRenderer: Reallocating scene render targets to support 1168x580 Format 10 NumSamples 1 (Frame:1).
+[2021.12.13-18.27.01:976][  0]LogSlate: Took 0.000234 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.12.13-18.27.02:075][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2021.12.13-18.27.02:075][  0]LogInput: Warning: Action Jump uses invalid key OculusGo_Left_Trigger_Click.
+[2021.12.13-18.27.02:075][  0]LogInput: Warning: Action ResetVR uses invalid key OculusGo_Left_Trackpad_Click.
+[2021.12.13-18.27.02:075][  0]LogInput: Warning: Use -RemoveInvalidKeys to remove instances of these keys from the action mapping.
+[2021.12.13-18.27.02:075][  0]LogLoad: (Engine Initialization) Total time: 17.49 seconds
+[2021.12.13-18.27.02:075][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2021.12.13-18.27.02:096][  0]AssetCheck: New page: Asset Save: Floor_400x400
+[2021.12.13-18.27.02:096][  0]LogContentValidation: Display: Validating StaticMesh /Game/StarterContent/Architecture/Floor_400x400.Floor_400x400
+[2021.12.13-18.27.02:141][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2021.12.13-18.27.02:206][  1]LogAssetRegistry: Asset discovery search completed in 12.6161 seconds
+[2021.12.13-18.27.02:215][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000004 seconds (updated 0 objects)
+[2021.12.13-18.35.48:354][ 58]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2021.12.13-18.35.48:365][ 58]LogSlate: Took 0.000189 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.12.13-18.35.48:941][ 58]LogTexture: Display: Building textures: DeprecatedTexture43ADA98049DD7D3E0EABF7B175F6CC97 (BGRA8, 128X128)
+[2021.12.13-18.35.48:947][ 58]LogTexture: Display: Building textures: DeprecatedTexture34034B4C417D9B375A592E9A23C11137 (BGRA8, 128X128)
+[2021.12.13-18.35.48:954][ 58]LogTexture: Display: Building textures: DeprecatedTexture310E58554010446A08107499F126CE3D (BGRA8, 128X128)
+[2021.12.13-18.35.48:962][ 58]LogTexture: Display: Building textures: DeprecatedTextureF6495ADB4998903A4DCD9AAEAD18E643 (BGRA8, 128X128)
+[2021.12.13-18.35.48:970][ 58]LogTexture: Display: Building textures: DeprecatedTexture286B71FD456BBC57D3B875B63A2AF0AA (BGRA8, 128X128)
+[2021.12.13-18.35.48:977][ 58]LogTexture: Display: Building textures: DeprecatedTexture617F078740EB0F77ABFB678038ACFCA7 (BGRA8, 128X128)
+[2021.12.13-18.35.48:983][ 58]LogTexture: Display: Building textures: DeprecatedTexture2A05A5254D431981518674B220E5E1A1 (BGRA8, 128X128)
+[2021.12.13-18.35.48:990][ 58]LogTexture: Display: Building textures: DeprecatedTexture23F9881A4F7D09FA85B8FFBAC56882BF (BGRA8, 128X128)
+[2021.12.13-18.35.48:997][ 58]LogTexture: Display: Building textures: DeprecatedTextureB91D75A74080657D8AF886A1EE756E94 (BGRA8, 128X128)
+[2021.12.13-18.35.49:006][ 58]LogTexture: Display: Building textures: DeprecatedTexture3AD1786A42EB6F981CB7E1847869C35B (BGRA8, 128X128)
+[2021.12.13-18.35.49:278][ 58]LogAssetEditorSubsystem: Opening Asset editor for World /Game/StarterContent/Maps/StarterMap.StarterMap
+[2021.12.13-18.35.49:278][ 58]Cmd: MAP LOAD FILE="../../../../../../Users/india/Documents/Unreal Projects/VRProj/Content/StarterContent/Maps/StarterMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.12.13-18.35.49:278][ 58]LightingResults: New page: Lighting Build
+[2021.12.13-18.35.49:279][ 58]LoadErrors: New page: Loading map: StarterMap.umap
+[2021.12.13-18.35.49:317][ 58]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.12.13-18.35.49:318][ 58]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.13-18.35.49:318][ 58]MapCheck: New page: Map Check
+[2021.12.13-18.35.49:318][ 58]LightingResults: New page: Lighting Build
+[2021.12.13-18.35.49:329][ 58]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.12.13-18.35.49:336][ 58]LogUObjectHash: Compacting FUObjectHashTables data took   2.34ms
+[2021.12.13-18.35.49:338][ 58]LogAudio: Display: Audio Device (ID: 1) registered with world 'StarterMap'.
+[2021.12.13-18.35.49:374][ 58]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.12.13-18.35.49:374][ 58]LogAIModule: Creating AISystem for world StarterMap
+[2021.12.13-18.35.49:393][ 58]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2021.12.13-18.35.49:396][ 58]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.12.13-18.35.49:396][ 58]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.254ms to complete.
+[2021.12.13-18.35.49:396][ 58]LogFileHelpers: Loading map 'StarterMap' took 0.118
+[2021.12.13-18.35.53:684][271]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2021.12.13-18.35.53:732][271]LogTexture: Display: Building textures: DeprecatedTextureD6C57B644F03DADF4F2699848FAEA3C3 (BGRA8, 128X128)
+[2021.12.13-18.35.53:740][271]LogTexture: Display: Building textures: DeprecatedTexture8D91C9AE4C6B8D628CDA3C848426284A (BGRA8, 128X128)
+[2021.12.13-18.35.53:746][271]LogAssetEditorSubsystem: Opening Asset editor for World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2021.12.13-18.35.53:746][271]Cmd: MAP LOAD FILE="../../../../../../Users/india/Documents/Unreal Projects/VRProj/Content/StarterContent/Maps/Minimal_Default.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.12.13-18.35.53:746][271]LightingResults: New page: Lighting Build
+[2021.12.13-18.35.53:746][271]LoadErrors: New page: Loading map: Minimal_Default.umap
+[2021.12.13-18.35.53:789][271]LogWorld: UWorld::CleanupWorld for StarterMap, bSessionEnded=true, bCleanupResources=true
+[2021.12.13-18.35.53:789][271]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.13-18.35.53:790][271]MapCheck: New page: Map Check
+[2021.12.13-18.35.53:790][271]LightingResults: New page: Lighting Build
+[2021.12.13-18.35.53:796][271]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.12.13-18.35.53:802][271]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2021.12.13-18.35.53:803][271]LogAudio: Display: Audio Device (ID: 1) registered with world 'Minimal_Default'.
+[2021.12.13-18.35.53:805][271]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.12.13-18.35.53:805][271]LogAIModule: Creating AISystem for world Minimal_Default
+[2021.12.13-18.35.53:814][271]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2021.12.13-18.35.53:816][271]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.12.13-18.35.53:816][271]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.148ms to complete.
+[2021.12.13-18.35.53:816][271]LogFileHelpers: Loading map 'Minimal_Default' took 0.070
+[2021.12.13-18.35.58:017][673]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Chair)
+[2021.12.13-18.45.23:318][363]LogLinker: Warning: Failed to load '/Game/Blueprints/LapViewPawn': Can't find file.
+[2021.12.13-18.45.23:318][363]LogLinker: Warning: Failed to load '/Game/Blueprints/LapViewPawn': Can't find file.
+[2021.12.13-18.45.23:319][363]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/Blueprints/LapViewPawn.LapViewPawn'
+[2021.12.13-18.45.58:111][442]LogAssetTools: Warning: Failed to import 'C:\Users\india\Desktop\Prototype_DDO-master\Content\Blueprints\LapViewPawn.uasset'. Unknown extension 'uasset'.
+[2021.12.13-18.46.00:729][514]LogAssetTools: Warning: Failed to import 'C:\Users\india\Desktop\Prototype_DDO-master\Content\Blueprints\PlayerPawn.uasset'. Unknown extension 'uasset'.
+[2021.12.13-18.46.13:540][914]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2021.12.13-18.46.13:562][914]LogSavePackage: Moving '../../../../../../Users/india/Documents/Unreal Projects/VRProj/Saved/Minimal_Default659E53334F4DBCA3AA0DF2A1681617B4.tmp' to '../../../../../../Users/india/Documents/Unreal Projects/VRProj/Content/StarterContent/Maps/Minimal_Default.umap'
+[2021.12.13-18.46.13:641][914]LogSavePackage: Moving '../../../../../../Users/india/Documents/Unreal Projects/VRProj/Saved/Minimal_Default_BuiltData4A207CE14A2464CEC81ADE9285588ECF.tmp' to '../../../../../../Users/india/Documents/Unreal Projects/VRProj/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset'
+[2021.12.13-18.46.13:666][914]AssetCheck: New page: Asset Save: multiple assets
+[2021.12.13-18.46.13:666][914]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2021.12.13-18.46.13:666][914]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData
+[2021.12.13-18.47.33:392][165]LogLinker: Warning: [AssetLog] C:\Users\india\Documents\Unreal Projects\VRProj\Content\PlayerPawn.uasset: Failed to load '/Game/Blueprints/TestAIController': Can't find file.
+[2021.12.13-18.47.33:392][165]LogLinker: Warning: [AssetLog] C:\Users\india\Documents\Unreal Projects\VRProj\Content\PlayerPawn.uasset: Failed to load '/Game/Blueprints/TestAIController': Can't find file.
+[2021.12.13-18.47.33:393][165]LogLinker: Warning: [AssetLog] C:\Users\india\Documents\Unreal Projects\VRProj\Content\PlayerPawn.uasset: Failed to load '/Game/Models/CarInterior/Car_2/Player_Car_material': Can't find file.
+[2021.12.13-18.47.33:394][165]LogLinker: Warning: [AssetLog] C:\Users\india\Documents\Unreal Projects\VRProj\Content\PlayerPawn.uasset: Failed to load '/Game/Models/CarInterior/Car_2/Player_Car_material': Can't find file.
+[2021.12.13-18.47.33:394][165]LogLinker: Warning: [AssetLog] C:\Users\india\Documents\Unreal Projects\VRProj\Content\PlayerPawn.uasset: Failed to load '/Game/Blueprints/TestAIController': Can't find file.
+[2021.12.13-18.47.33:395][165]LogLinker: Warning: [AssetLog] C:\Users\india\Documents\Unreal Projects\VRProj\Content\PlayerPawn.uasset: Failed to load '/Game/Models/CarInterior/Car_2/Car__All_Parts_Combined__2_0': Can't find file.
+[2021.12.13-18.47.33:395][165]LogLinker: Warning: [AssetLog] C:\Users\india\Documents\Unreal Projects\VRProj\Content\PlayerPawn.uasset: Failed to load '/Game/Models/CarInterior/Car_2/Car__All_Parts_Combined__2_0': Can't find file.
+[2021.12.13-18.47.33:396][165]LogLinker: Warning: [AssetLog] C:\Users\india\Documents\Unreal Projects\VRProj\Content\PlayerPawn.uasset: Failed to load '/Game/Models/CarInterior/Car_2/Player_Car_material': Can't find file.
+[2021.12.13-18.47.33:396][165]LogLinker: Warning: [AssetLog] C:\Users\india\Documents\Unreal Projects\VRProj\Content\PlayerPawn.uasset: Failed to load '/Game/Models/CarInterior/Car_2/Car__All_Parts_Combined__2_0': Can't find file.
+[2021.12.13-18.47.33:397][165]LogLinker: Warning: Failed to load '/Game/Blueprints/TestAIController': Can't find file.
+[2021.12.13-18.47.33:397][165]LogLinker: Warning: Failed to load '/Game/Blueprints/TestAIController': Can't find file.
+[2021.12.13-18.47.33:398][165]LogLinker: Warning: Failed to load '/Game/Models/CarInterior/Car_2/Player_Car_material': Can't find file.
+[2021.12.13-18.47.33:398][165]LogLinker: Warning: Failed to load '/Game/Blueprints/TestAIController': Can't find file.
+[2021.12.13-18.47.33:398][165]LogLinker: Warning: Failed to load '/Game/Models/CarInterior/Car_2/Car__All_Parts_Combined__2_0': Can't find file.
+[2021.12.13-18.47.33:398][165]LogLinker: Warning: Failed to load '/Game/Models/CarInterior/Car_2/Player_Car_material': Can't find file.
+[2021.12.13-18.47.33:398][165]LogLinker: Warning: Failed to load '/Game/Models/CarInterior/Car_2/Car__All_Parts_Combined__2_0': Can't find file.
+[2021.12.13-18.47.33:399][165]LogLinker: Warning: [AssetLog] C:\Users\india\Documents\Unreal Projects\VRProj\Content\PlayerPawn.uasset: Failed to load '/Game/Blueprints/TestAIController': Can't find file.
+[2021.12.13-18.47.33:399][165]LoadErrors: Failed to load /Game/Blueprints/TestAIController.TestAIController_C Referenced by Default__PlayerPawn_C
+[2021.12.13-18.47.33:400][165]LogLinker: Warning: [AssetLog] C:\Users\india\Documents\Unreal Projects\VRProj\Content\PlayerPawn.uasset: Failed to load '/Game/Blueprints/TestAIController': Can't find file.
+[2021.12.13-18.47.33:400][165]LoadErrors: Failed to load /Game/Blueprints/TestAIController.TestAIController_C Referenced by PlayerPawn
+[2021.12.13-18.47.33:402][165]LogLinker: Warning: [AssetLog] C:\Users\india\Documents\Unreal Projects\VRProj\Content\PlayerPawn.uasset: Failed to load '/Game/Blueprints/TestAIController': Can't find file.
+[2021.12.13-18.47.33:402][165]LoadErrors: Failed to load /Game/Blueprints/TestAIController.TestAIController_C Referenced by K2Node_SpawnActorFromClass_0
+[2021.12.13-18.47.33:402][165]LogLinker: Warning: [AssetLog] C:\Users\india\Documents\Unreal Projects\VRProj\Content\PlayerPawn.uasset: Failed to load '/Game/Blueprints/TestAIController': Can't find file.
+[2021.12.13-18.47.33:403][165]LogLinker: Warning: [AssetLog] C:\Users\india\Documents\Unreal Projects\VRProj\Content\PlayerPawn.uasset: Failed to load '/Game/Blueprints/TestAIController': Can't find file.
+[2021.12.13-18.47.33:403][165]LoadErrors: Failed to load /Game/Blueprints/TestAIController.TestAIController_C Referenced by K2Node_VariableSet_3
+[2021.12.13-18.47.33:403][165]LogLinker: Warning: [AssetLog] C:\Users\india\Documents\Unreal Projects\VRProj\Content\PlayerPawn.uasset: Failed to load '/Game/Blueprints/TestAIController': Can't find file.
+[2021.12.13-18.47.33:403][165]LogLinker: Warning: [AssetLog] C:\Users\india\Documents\Unreal Projects\VRProj\Content\PlayerPawn.uasset: Failed to load '/Game/Blueprints/TestAIController': Can't find file.
+[2021.12.13-18.47.33:404][165]LoadErrors: Failed to load /Game/Blueprints/TestAIController.TestAIController_C Referenced by K2Node_VariableGet_1
+[2021.12.13-18.47.33:405][165]LogLinker: Warning: [AssetLog] C:\Users\india\Documents\Unreal Projects\VRProj\Content\PlayerPawn.uasset: Failed to load '/Game/Models/CarInterior/Car_2/Car__All_Parts_Combined__2_0': Can't find file.
+[2021.12.13-18.47.33:405][165]LoadErrors: Failed to load /Game/Models/CarInterior/Car_2/Car__All_Parts_Combined__2_0.Car__All_Parts_Combined__2_0 Referenced by CarInterior_GEN_VARIABLE
+[2021.12.13-18.47.33:405][165]LogLinker: Warning: [AssetLog] C:\Users\india\Documents\Unreal Projects\VRProj\Content\PlayerPawn.uasset: Failed to load '/Game/Models/CarInterior/Car_2/Player_Car_material': Can't find file.
+[2021.12.13-18.47.33:405][165]LoadErrors: Failed to load /Game/Models/CarInterior/Car_2/Player_Car_material.Player_Car_material Referenced by CarInterior_GEN_VARIABLE
+[2021.12.13-18.47.33:414][165]LogBlueprint: Error: [AssetLog] C:\Users\india\Documents\Unreal Projects\VRProj\Content\PlayerPawn.uasset: [Compiler] Spawn node  SpawnActor NONE  must have a  Class  specified.
+[2021.12.13-18.47.33:417][165]LogBlueprint: Error: [AssetLog] C:\Users\india\Documents\Unreal Projects\VRProj\Content\PlayerPawn.uasset: [Compiler] In use pin  AIController  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2021.12.13-18.47.33:417][165]LogBlueprint: Error: [AssetLog] C:\Users\india\Documents\Unreal Projects\VRProj\Content\PlayerPawn.uasset: [Compiler] In use pin  AIController  no longer exists on node  Set . Please refresh node or break links to remove pin.
+[2021.12.13-18.47.33:417][165]LogBlueprint: Warning: [AssetLog] C:\Users\india\Documents\Unreal Projects\VRProj\Content\PlayerPawn.uasset: [Compiler] Input pin  Instigator  specifying non-default value no longer exists on node  SpawnActor NONE . Please refresh node or reset pin to default value to remove pin.
+[2021.12.13-18.47.44:298][273]LogEditorViewport: Clicking on Actor (LMB): PlayerPawn_C (PlayerPawn)
+[2021.12.13-18.47.49:602][794]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/PlayerPawn.PlayerPawn
+[2021.12.13-18.47.49:902][794]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0007 seconds. Added 126 classes and 0 folders.
+[2021.12.13-18.47.50:993][794]LogSlate: Took 0.000205 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.12.13-18.47.51:083][794]LogSlate: Took 0.000665 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2021.12.13-18.47.53:211][917]LogSlate: Took 0.000207 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.12.13-18.47.54:271][968]LogRenderer: Reallocating scene render targets to support 1168x720 Format 10 NumSamples 1 (Frame:1).
+[2021.12.13-18.48.18:484][372]LogSlate: Window 'PlayerPawn' being destroyed
+[2021.12.13-18.48.18:500][372]LogSlate: Window 'PlayerPawn' being destroyed
+[2021.12.13-18.48.18:503][372]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2021.12.13-18.48.18:503][372]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.13-18.50.35:653][134]LogUObjectHash: Compacting FUObjectHashTables data took   2.74ms
+[2021.12.13-18.50.35:682][134]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_DEVICE_REMOVED 00000000' (0x887A0005), falling back to legacy CreateSwapChain.
+[2021.12.13-18.50.35:683][134]LogD3D11RHI: Error: CreateSwapChainResult failed 
+ at D:/Build/++UE4/Sync/Engine/Source/Runtime/Windows/D3D11RHI/Private/Windows/WindowsD3D11Viewport.cpp:248 
+ with error DXGI_ERROR_DEVICE_REMOVED 00000000
+[2021.12.13-18.50.35:684][134]LogD3D11RHI: [Aftermath] GDynamicRHI=000002367C402640, GDX11NVAfterMathEnabled=0, Result=0xFFFFFFFF, bDeviceActive=0
+[2021.12.13-18.50.35:684][134]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2021.12.13-18.50.35:684][134]LogWindows: Windows GetLastError: The operation completed successfully. (0)
+[2021.12.13-18.50.38:057][134]LogWindows: FPlatformMisc::RequestExit(0)
+[2021.12.13-18.50.38:057][134]LogWindows: FPlatformMisc::RequestExitWithStatus(0, 0)
+[2021.12.13-18.50.38:057][134]LogCore: Engine exit requested (reason: Win RequestExit)
+[2021.12.13-18.50.38:058][134]LogWindows: FPlatformMisc::RequestExit(1)
+[2021.12.13-18.50.38:058][134]LogWindows: FPlatformMisc::RequestExitWithStatus(1, 3)
+[2021.12.13-18.50.38:058][134]LogCore: Engine exit requested (reason: Win RequestExit; note: exit was already requested)
+[2021.12.13-18.50.38:068][134]Log file closed, 12/13/21 11:50:38
