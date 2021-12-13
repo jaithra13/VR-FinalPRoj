@@ -1,11 +1,12 @@
 # VR-FinalPRoj
 
 Jaithra Bhatia
-u1193694@umail.utah.edu, 						Salt Lake City, Utah, US
+u1193694@umail.utah.edu, 						
+Salt Lake City, Utah, US
 Faculty Sponsor, Rogelio E. Cardona-Rivera, Ph.D.
 rogelio@cs.utah.edu
-Final Project: How to get angry
-CS 5360 VR Project Summary
+                                                                Final Project: How to get angry
+                                                                   CS 5360 VR Project Summary
 
 Team name: Jaithra Bhatia,
 Release Date: 13th December				                                                    
